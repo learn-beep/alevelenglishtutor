@@ -1,0 +1,236 @@
+[
+ {
+  "slug": "othello",
+  "name": "Othello",
+  "group": "Shakespeare",
+  "statements": [
+   "4.1.1-OTH"
+  ]
+ },
+ {
+  "slug": "taming-of-the-shrew",
+  "name": "The Taming of the Shrew",
+  "group": "Shakespeare",
+  "statements": [
+   "4.1.1-TAM"
+  ]
+ },
+ {
+  "slug": "measure-for-measure",
+  "name": "Measure for Measure",
+  "group": "Shakespeare",
+  "statements": [
+   "4.1.1-MFM"
+  ]
+ },
+ {
+  "slug": "the-winters-tale",
+  "name": "The Winter's Tale",
+  "group": "Shakespeare",
+  "statements": [
+   "4.1.1-WT"
+  ]
+ },
+ {
+  "slug": "love-poetry-pre-1900",
+  "name": "AQA Anthology: love poetry pre-1900",
+  "group": "Love poetry and prose",
+  "statements": [
+   "4.1.2-PRE"
+  ]
+ },
+ {
+  "slug": "love-poetry-post-1900",
+  "name": "AQA Anthology: love poetry post-1900",
+  "group": "Love poetry and prose",
+  "statements": [
+   "4.1.2-POST"
+  ]
+ },
+ {
+  "slug": "comparing-prose-love",
+  "name": "Comparing prose texts (love through the ages)",
+  "group": "Love poetry and prose",
+  "statements": [
+   "4.1.3-PROSE",
+   "4.1.3-PERS",
+   "4.1.3-JE",
+   "4.1.3-WH",
+   "4.1.3-AWAK",
+   "4.1.3-ROTT",
+   "4.1.3-MILL",
+   "4.1.3-TESS",
+   "4.1.3-GATS",
+   "4.1.3-RWV",
+   "4.1.3-GOB",
+   "4.1.3-REB",
+   "4.1.3-ATON"
+  ]
+ },
+ {
+  "slug": "unseen-love-poetry",
+  "name": "Unseen poetry comparison (love)",
+  "group": "Love poetry and prose",
+  "statements": [],
+  "match": {
+   "fmt": [
+    "Unseen poetry comparison"
+   ]
+  }
+ },
+ {
+  "slug": "unseen-love-prose",
+  "name": "Unseen prose (AS)",
+  "group": "Love poetry and prose",
+  "statements": [],
+  "match": {
+   "fmt": [
+    "Unseen prose"
+   ]
+  }
+ },
+ {
+  "slug": "regeneration",
+  "name": "Regeneration (Pat Barker)",
+  "group": "WW1 and its aftermath",
+  "statements": [
+   "4.2.1-REGEN"
+  ]
+ },
+ {
+  "slug": "birdsong",
+  "name": "Birdsong (Sebastian Faulks)",
+  "group": "WW1 and its aftermath",
+  "statements": [
+   "4.2.1-BIRD"
+  ]
+ },
+ {
+  "slug": "oh-what-a-lovely-war",
+  "name": "Oh! What a Lovely War",
+  "group": "WW1 and its aftermath",
+  "statements": [
+   "4.2.1-OWLW"
+  ]
+ },
+ {
+  "slug": "journeys-end",
+  "name": "Journey's End (R.C. Sherriff)",
+  "group": "WW1 and its aftermath",
+  "statements": [
+   "4.2.1-JEND"
+  ]
+ },
+ {
+  "slug": "up-the-line-to-death",
+  "name": "Up the Line to Death (WW1 poetry)",
+  "group": "WW1 and its aftermath",
+  "statements": [
+   "4.2.1-UPLD"
+  ]
+ },
+ {
+  "slug": "scars-upon-my-heart",
+  "name": "Scars Upon My Heart (WW1 poetry)",
+  "group": "WW1 and its aftermath",
+  "statements": [
+   "4.2.1-SCARS"
+  ]
+ },
+ {
+  "slug": "ww1-unseen-extract",
+  "name": "WW1 unseen extract",
+  "group": "WW1 and its aftermath",
+  "statements": [],
+  "match": {
+   "fmt": [
+    "Contextual linking"
+   ],
+   "paper": "2A"
+  }
+ },
+ {
+  "slug": "ww1-comparison",
+  "name": "WW1 comparing texts",
+  "group": "WW1 and its aftermath",
+  "statements": [],
+  "match": {
+   "fmt": [
+    "Contextual comparison"
+   ],
+   "paper": "2A"
+  }
+ },
+ {
+  "slug": "the-handmaids-tale",
+  "name": "The Handmaid's Tale (Margaret Atwood)",
+  "group": "Modern times",
+  "statements": [
+   "4.2.2-HMT"
+  ]
+ },
+ {
+  "slug": "waterland",
+  "name": "Waterland (Graham Swift)",
+  "group": "Modern times",
+  "statements": [
+   "4.2.2-WATL"
+  ]
+ },
+ {
+  "slug": "top-girls",
+  "name": "Top Girls (Caryl Churchill)",
+  "group": "Modern times",
+  "statements": [
+   "4.2.2-TOPG"
+  ]
+ },
+ {
+  "slug": "a-streetcar-named-desire",
+  "name": "A Streetcar Named Desire",
+  "group": "Modern times",
+  "statements": [
+   "4.2.2-STREET"
+  ]
+ },
+ {
+  "slug": "feminine-gospels",
+  "name": "Feminine Gospels (Carol Ann Duffy)",
+  "group": "Modern times",
+  "statements": [
+   "4.2.2-FEMG"
+  ]
+ },
+ {
+  "slug": "skirrid-hill",
+  "name": "Skirrid Hill (Owen Sheers)",
+  "group": "Modern times",
+  "statements": [
+   "4.2.2-SKIR"
+  ]
+ },
+ {
+  "slug": "modern-times-unseen-extract",
+  "name": "Modern times unseen extract",
+  "group": "Modern times",
+  "statements": [],
+  "match": {
+   "fmt": [
+    "Contextual linking"
+   ],
+   "paper": "2B"
+  }
+ },
+ {
+  "slug": "modern-times-comparison",
+  "name": "Modern times comparing texts",
+  "group": "Modern times",
+  "statements": [],
+  "match": {
+   "fmt": [
+    "Contextual comparison"
+   ],
+   "paper": "2B"
+  }
+ }
+]

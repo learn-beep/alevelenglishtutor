@@ -1,0 +1,33 @@
+{
+ "series": "Summer 2027",
+ "source": "AQA's May/June 2027 exam timetable and the 7702 key dates page",
+ "alevel": [
+  {
+   "code": "7702/1",
+   "name": "Paper 1: Language, the individual and society",
+   "date": "2027-05-10",
+   "session": "Morning",
+   "length": "2 hours 30 minutes",
+   "marks": 100
+  },
+  {
+   "code": "7702/2",
+   "name": "Paper 2: Language diversity and change",
+   "date": "2027-05-17",
+   "session": "Morning",
+   "length": "2 hours 30 minutes",
+   "marks": 100
+  }
+ ],
+ "as": [
+  {
+   "code": "7701/1",
+   "name": "Paper 1: Language and the individual",
+   "date": "2027-05-10",
+   "session": "Morning",
+   "length": "1 hour 30 minutes",
+   "marks": 70
+  }
+ ],
+ "asNote": "AS Paper 2 (7701/2, Language varieties, 1 hour 30 minutes, 70 marks) is also in May 2027: check the date on AQA's timetable or with your exams officer. AS marks do not count towards the A level. The A-level NEA (Language in Action, 7702/C) is submitted by AQA's deadline of 15 May 2027; your school sets its own earlier deadline."
+}

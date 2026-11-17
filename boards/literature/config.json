@@ -1,0 +1,29 @@
+{
+ "paperNames": {
+  "7712-1": "Paper 1",
+  "7712-2A": "Paper 2A",
+  "7712-2B": "Paper 2B",
+  "7711-1": "Paper 1",
+  "7711-2": "Paper 2"
+ },
+ "paperTitles": {
+  "7712-1": "Love through the ages",
+  "7712-2A": "Texts in shared contexts: WW1 and its aftermath",
+  "7712-2B": "Texts in shared contexts: Modern times, literature from 1945 to the present day",
+  "7711-1": "Love through the ages: Shakespeare and poetry",
+  "7711-2": "Love through the ages: prose"
+ },
+ "paperTotals": {
+  "7712-1": 75,
+  "7712-2A": 75,
+  "7712-2B": 75,
+  "7711-1": 50,
+  "7711-2": 50
+ },
+ "oldSpecFlag": "not_current_spec",
+ "formatNames": {
+  "Contextual linking": "Unseen extract",
+  "Contextual comparison": "Comparing texts (Paper 2)",
+  "Unseen poetry comparison": "Unseen poetry"
+ }
+}

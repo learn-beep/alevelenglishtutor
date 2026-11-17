@@ -1,0 +1,459 @@
+{
+ "id": "literature",
+ "short": "AQA",
+ "subj": "English Literature A",
+ "full": "AQA A-level English Literature A",
+ "holder": "AQA",
+ "alCode": "7712",
+ "asCode": "7711",
+ "codes": "7712 and AS 7711",
+ "spec": "AQA AS and A-level English Literature A (7711/7712).",
+ "materials": "https://www.aqa.org.uk/subjects/english/as-and-a-level/english-literature-a-7711-7712/assessment-resources",
+ "specUrl": "https://www.aqa.org.uk/subjects/english/a-level/english-7712/specification",
+ "store": "eng-lit",
+ "since": 2016,
+ "wa": "AQA",
+ "groups": [
+  [
+   "Shakespeare",
+   "SH",
+   1,
+   "mask",
+   "A-level Paper 1 Section A and AS Paper 1 Section A: an extract-based question on your play"
+  ],
+  [
+   "Love poetry and prose",
+   "LV",
+   2,
+   "heart",
+   "A-level Paper 1 Sections B and C (unseen poetry, comparing a prose text and anthology poetry); AS Paper 1 Section B and AS Paper 2"
+  ],
+  [
+   "WW1 and its aftermath",
+   "2A",
+   3,
+   "poppy",
+   "A-level Paper 2A: a set text (Section A), an unseen extract and a comparison (Section B)"
+  ],
+  [
+   "Modern times",
+   "2B",
+   4,
+   "city",
+   "A-level Paper 2B: a set text (Section A), an unseen extract and a comparison (Section B)"
+  ]
+ ],
+ "alPapers": [
+  [
+   "1",
+   "Paper 1: Love through the ages"
+  ],
+  [
+   "2A",
+   "Paper 2A: WW1 and its aftermath"
+  ],
+  [
+   "2B",
+   "Paper 2B: Modern times"
+  ]
+ ],
+ "asPapers": [
+  [
+   "1",
+   "Paper 1: Shakespeare and poetry"
+  ],
+  [
+   "2",
+   "Paper 2: Prose"
+  ]
+ ],
+ "types": [
+  [
+   "shakespeare-extract",
+   "Shakespeare extract",
+   "Shakespeare: extract and whole play (25 marks)",
+   "Paper 1 Section A (A level and AS): read the printed extract and respond to a view about the play, looking at the extract and the play as a whole. AO2 (dramatic methods) and AO5 (other interpretations) carry the top band."
+  ],
+  [
+   "set-text-essays",
+   "Set text essay",
+   "Paper 2 set-text essays (25 marks)",
+   "Paper 2A and 2B Section A: an essay on your core set text responding to a view, with no extract. Each text has two questions to choose from."
+  ],
+  [
+   "anthology-poetry",
+   "Anthology poetry",
+   "AS: the love poetry anthology (25 marks)",
+   "AS Paper 1 Section B: one question on the pre-1900 or post-1900 anthology, with a named poem printed."
+  ],
+  [
+   "unseen-poetry",
+   "Unseen poetry",
+   "Unseen poetry comparison (25 marks)",
+   "A-level Paper 1 Section B: compare two unseen love poems. No set text needed, so it rewards practice more than any other question."
+  ],
+  [
+   "unseen-prose",
+   "Unseen prose",
+   "AS: unseen prose (25 marks)",
+   "AS Paper 2 Section A: an unseen prose extract about love, analysed for how meanings are shaped."
+  ],
+  [
+   "comparing-texts",
+   "Comparing texts",
+   "Comparing texts: love through the ages (25 marks)",
+   "A-level Paper 1 Section C and AS Paper 2 Section B: compare a prose text with poetry (A level) or two prose texts (AS) on an aspect of love."
+  ],
+  [
+   "contextual-linking",
+   "Unseen extract",
+   "Paper 2: the unseen extract (25 marks)",
+   "Paper 2A and 2B Section B: explore how an unseen extract presents an aspect of the period, drawing on your wider reading (contextual linking)."
+  ],
+  [
+   "contextual-comparison",
+   "Comparing texts (Paper 2)",
+   "Paper 2: comparing two texts (25 marks)",
+   "Paper 2A and 2B Section B: compare two of your set texts on a theme from the period, one of them written in the period or about it."
+  ]
+ ],
+ "homeTop": [
+  "othello",
+  "taming-of-the-shrew",
+  "the-winters-tale",
+  "unseen-love-poetry",
+  "comparing-prose-love",
+  "journeys-end",
+  "birdsong",
+  "ww1-unseen-extract",
+  "the-handmaids-tale",
+  "a-streetcar-named-desire",
+  "top-girls",
+  "modern-times-unseen-extract"
+ ],
+ "homeTiles": [
+  [
+   "unseen-poetry",
+   "Unseen poetry",
+   "Every unseen love-poetry comparison, with both poems and the mark scheme",
+   "book",
+   "Unseen"
+  ],
+  [
+   "shakespeare-extract",
+   "Shakespeare extracts",
+   "Every extract question on Othello, The Taming of the Shrew, Measure for Measure and The Winter's Tale",
+   "lightbulb",
+   "Shakespeare"
+  ]
+ ],
+ "searchHint": "e.g. Othello, Journey's End, unseen poetry, Handmaid's Tale",
+ "levels": {
+  "25": [
+   [
+    1,
+    3
+   ],
+   [
+    2,
+    8
+   ],
+   [
+    3,
+    13
+   ],
+   [
+    4,
+    18
+   ],
+   [
+    5,
+    23
+   ]
+  ]
+ },
+ "levelsNote": "AQA marks every English Literature A question in five bands out of 25: Band 5 perceptive/assured (21–25), Band 4 coherent/thorough (16–20), Band 3 straightforward/relevant (11–15), Band 2 simple/generalised (6–10), Band 1 largely irrelevant or inaccurate (1–5). All five assessment objectives are assessed in every question.",
+ "essayMarks": [
+  25
+ ],
+ "mock": [
+  {
+   "level": "A level",
+   "paper": "Paper 1",
+   "title": "A-level Paper 1: Love through the ages",
+   "minutes": 180,
+   "marks": 75,
+   "slots": [
+    {
+     "label": "Section A: Shakespeare",
+     "options": [
+      {
+       "label": "Othello",
+       "topics": [
+        "othello"
+       ]
+      },
+      {
+       "label": "The Taming of the Shrew",
+       "topics": [
+        "taming-of-the-shrew"
+       ]
+      },
+      {
+       "label": "Measure for Measure",
+       "topics": [
+        "measure-for-measure"
+       ]
+      },
+      {
+       "label": "The Winter's Tale",
+       "topics": [
+        "the-winters-tale"
+       ]
+      }
+     ]
+    },
+    {
+     "label": "Section B: Unseen poetry",
+     "topics": [
+      "unseen-love-poetry"
+     ]
+    },
+    {
+     "label": "Section C: Comparing prose and poetry (one of Question 6 or 7)",
+     "nums": [
+      6,
+      7
+     ],
+     "one": true
+    }
+   ]
+  },
+  {
+   "level": "A level",
+   "paper": "Paper 2A",
+   "title": "A-level Paper 2A: WW1 and its aftermath",
+   "minutes": 150,
+   "marks": 75,
+   "slots": [
+    {
+     "label": "Section A: your set text",
+     "options": [
+      {
+       "label": "Regeneration",
+       "topics": [
+        "regeneration"
+       ],
+       "one": true
+      },
+      {
+       "label": "Birdsong",
+       "topics": [
+        "birdsong"
+       ],
+       "one": true
+      },
+      {
+       "label": "Oh! What a Lovely War",
+       "topics": [
+        "oh-what-a-lovely-war"
+       ],
+       "one": true
+      },
+      {
+       "label": "Journey's End",
+       "topics": [
+        "journeys-end"
+       ],
+       "one": true
+      },
+      {
+       "label": "Up the Line to Death",
+       "topics": [
+        "up-the-line-to-death"
+       ],
+       "one": true
+      },
+      {
+       "label": "Scars Upon My Heart",
+       "topics": [
+        "scars-upon-my-heart"
+       ],
+       "one": true
+      }
+     ]
+    },
+    {
+     "label": "Section B: Unseen extract",
+     "topics": [
+      "ww1-unseen-extract"
+     ],
+     "one": true
+    },
+    {
+     "label": "Section B: Comparing texts",
+     "topics": [
+      "ww1-comparison"
+     ],
+     "one": true
+    }
+   ]
+  },
+  {
+   "level": "A level",
+   "paper": "Paper 2B",
+   "title": "A-level Paper 2B: Modern times",
+   "minutes": 150,
+   "marks": 75,
+   "slots": [
+    {
+     "label": "Section A: your set text",
+     "options": [
+      {
+       "label": "The Handmaid's Tale",
+       "topics": [
+        "the-handmaids-tale"
+       ],
+       "one": true
+      },
+      {
+       "label": "Waterland",
+       "topics": [
+        "waterland"
+       ],
+       "one": true
+      },
+      {
+       "label": "Top Girls",
+       "topics": [
+        "top-girls"
+       ],
+       "one": true
+      },
+      {
+       "label": "A Streetcar Named Desire",
+       "topics": [
+        "a-streetcar-named-desire"
+       ],
+       "one": true
+      },
+      {
+       "label": "Feminine Gospels",
+       "topics": [
+        "feminine-gospels"
+       ],
+       "one": true
+      },
+      {
+       "label": "Skirrid Hill",
+       "topics": [
+        "skirrid-hill"
+       ],
+       "one": true
+      }
+     ]
+    },
+    {
+     "label": "Section B: Unseen extract",
+     "topics": [
+      "modern-times-unseen-extract"
+     ],
+     "one": true
+    },
+    {
+     "label": "Section B: Comparing texts",
+     "topics": [
+      "modern-times-comparison"
+     ],
+     "one": true
+    }
+   ]
+  },
+  {
+   "level": "AS",
+   "paper": "Paper 1",
+   "title": "AS Paper 1: Shakespeare and poetry",
+   "minutes": 90,
+   "marks": 50,
+   "slots": [
+    {
+     "label": "Section A: Shakespeare",
+     "options": [
+      {
+       "label": "Othello",
+       "topics": [
+        "othello"
+       ]
+      },
+      {
+       "label": "The Taming of the Shrew",
+       "topics": [
+        "taming-of-the-shrew"
+       ]
+      },
+      {
+       "label": "Measure for Measure",
+       "topics": [
+        "measure-for-measure"
+       ]
+      },
+      {
+       "label": "The Winter's Tale",
+       "topics": [
+        "the-winters-tale"
+       ]
+      }
+     ]
+    },
+    {
+     "label": "Section B: Anthology poetry",
+     "options": [
+      {
+       "label": "Pre-1900",
+       "topics": [
+        "love-poetry-pre-1900"
+       ]
+      },
+      {
+       "label": "Post-1900",
+       "topics": [
+        "love-poetry-post-1900"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "level": "AS",
+   "paper": "Paper 2",
+   "title": "AS Paper 2: Prose",
+   "minutes": 90,
+   "marks": 50,
+   "slots": [
+    {
+     "label": "Section A: Unseen prose",
+     "topics": [
+      "unseen-love-prose"
+     ]
+    },
+    {
+     "label": "Section B: Comparing two prose texts (one of Question 2 or 3)",
+     "nums": [
+      2,
+      3
+     ],
+     "one": true
+    }
+   ]
+  }
+ ],
+ "mockExclude": [],
+ "nea": {
+  "name": "NEA (Independent critical study)",
+  "max": 50
+ },
+ "newTexts": "From the 2027 exams AQA has added three optional texts: Elif Shafak's The Island of Missing Trees (Paper 1, Love through the ages), Anna Hope's Wake (Paper 2A, WW1 and its aftermath) and Bernardine Evaristo's Mr Loverman (Paper 2B, Modern times). Every existing text stays; there are no past-paper questions on the new ones yet.",
+ "pastPapersNote": "AQA's own site now starts at November 2020. The June 2016–2019 papers here are AQA's original papers, taken from copies kept online. The November 2020 and November 2021 papers are the papers printed for the cancelled summer 2020 and 2021 exams. Some extracts in AQA's published papers are removed for copyright; the question says so where that happens. The June 2026 papers will be added when AQA releases them, expected after the summer 2027 exams.",
+ "latestNote": "AQA keeps each summer's papers secure for about a year: the June 2026 papers are expected after the summer 2027 exams. New optional texts for 2027 (The Island of Missing Trees, Wake, Mr Loverman) have no past questions yet."
+}

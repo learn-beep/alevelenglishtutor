@@ -1,0 +1,24 @@
+{
+ "paperNames": {
+  "7702-1": "Paper 1",
+  "7702-2": "Paper 2",
+  "7701-1": "Paper 1",
+  "7701-2": "Paper 2"
+ },
+ "paperTitles": {
+  "7702-1": "Language, the individual and society",
+  "7702-2": "Language diversity and change",
+  "7701-1": "Language and the individual",
+  "7701-2": "Language varieties"
+ },
+ "paperTotals": {
+  "7702-1": 100,
+  "7702-2": 100,
+  "7701-1": 70,
+  "7701-2": 70
+ },
+ "oldSpecFlag": "not_current_spec",
+ "formatNames": {
+  "CLD essay": "Child language essay"
+ }
+}

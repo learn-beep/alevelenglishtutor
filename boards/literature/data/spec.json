@@ -1,0 +1,518 @@
+[
+{
+"code": "4.1",
+"title": "Love through the ages (Paper 1; AS Papers 1 and 2)",
+"paper": 1,
+"option": null,
+"area": null,
+"theme": null,
+"aLevelOnly": false,
+"topic": null,
+"statements": []
+},
+{
+"code": "4.1.1",
+"title": "Shakespeare",
+"paper": 1,
+"option": null,
+"area": null,
+"theme": null,
+"aLevelOnly": false,
+"topic": "othello",
+"statements": [
+{
+"id": "4.1.1-OTH",
+"short": "",
+"text": "Othello",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"othello"
+]
+},
+{
+"id": "4.1.1-TAM",
+"short": "",
+"text": "The Taming of the Shrew",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"taming-of-the-shrew"
+]
+},
+{
+"id": "4.1.1-MFM",
+"short": "",
+"text": "Measure for Measure",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"measure-for-measure"
+]
+},
+{
+"id": "4.1.1-WT",
+"short": "",
+"text": "The Winter's Tale",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"the-winters-tale"
+]
+}
+]
+},
+{
+"code": "4.1.2",
+"title": "Poetry: AQA Anthology of love poetry through the ages",
+"paper": 1,
+"option": null,
+"area": null,
+"theme": null,
+"aLevelOnly": false,
+"topic": "love-poetry-pre-1900",
+"statements": [
+{
+"id": "4.1.2-PRE",
+"short": "",
+"text": "AQA Anthology of love poetry through the ages pre-1900",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"love-poetry-pre-1900"
+]
+},
+{
+"id": "4.1.2-POST",
+"short": "",
+"text": "AQA Anthology of love poetry through the ages post-1900",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"love-poetry-post-1900"
+]
+}
+]
+},
+{
+"code": "4.1.3",
+"title": "Prose (comparative set texts)",
+"paper": 1,
+"option": null,
+"area": null,
+"theme": null,
+"aLevelOnly": false,
+"topic": "comparing-prose-love",
+"statements": [
+{
+"id": "4.1.3-PERS",
+"short": "",
+"text": "Persuasion (Austen)",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"comparing-prose-love"
+]
+},
+{
+"id": "4.1.3-JE",
+"short": "",
+"text": "Jane Eyre (C. Brontë)",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"comparing-prose-love"
+]
+},
+{
+"id": "4.1.3-WH",
+"short": "",
+"text": "Wuthering Heights (E. Brontë)",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"comparing-prose-love"
+]
+},
+{
+"id": "4.1.3-AWAK",
+"short": "",
+"text": "The Awakening (Chopin)",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"comparing-prose-love"
+]
+},
+{
+"id": "4.1.3-ROTT",
+"short": "",
+"text": "The Rotters' Club (Coe) [AS only]",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"comparing-prose-love"
+]
+},
+{
+"id": "4.1.3-MILL",
+"short": "",
+"text": "The Mill on the Floss (Eliot) [AS only]",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"comparing-prose-love"
+]
+},
+{
+"id": "4.1.3-TESS",
+"short": "",
+"text": "Tess of the D'Urbervilles (Hardy)",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"comparing-prose-love"
+]
+},
+{
+"id": "4.1.3-GATS",
+"short": "",
+"text": "The Great Gatsby (Fitzgerald)",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"comparing-prose-love"
+]
+},
+{
+"id": "4.1.3-RWV",
+"short": "",
+"text": "A Room with a View (Forster)",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"comparing-prose-love"
+]
+},
+{
+"id": "4.1.3-GOB",
+"short": "",
+"text": "The Go-Between (Hartley)",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"comparing-prose-love"
+]
+},
+{
+"id": "4.1.3-REB",
+"short": "",
+"text": "Rebecca (Du Maurier)",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"comparing-prose-love"
+]
+},
+{
+"id": "4.1.3-ATON",
+"short": "",
+"text": "Atonement (McEwan)",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"comparing-prose-love"
+]
+},
+{
+"id": "4.1.3-PROSE",
+"short": "",
+"text": "Any studied prose text (open comparison questions)",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"comparing-prose-love"
+]
+}
+]
+},
+{
+"code": "4.2",
+"title": "Texts in shared contexts (Paper 2A / 2B)",
+"paper": 2,
+"option": null,
+"area": null,
+"theme": null,
+"aLevelOnly": true,
+"topic": null,
+"statements": []
+},
+{
+"code": "4.2.1",
+"title": "WW1 and its aftermath: core set texts (Paper 2A)",
+"paper": 2,
+"option": "Paper 2 option",
+"area": null,
+"theme": null,
+"aLevelOnly": true,
+"topic": "regeneration",
+"statements": [
+{
+"id": "4.2.1-REGEN",
+"short": "",
+"text": "Regeneration (Barker)",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"regeneration"
+]
+},
+{
+"id": "4.2.1-BIRD",
+"short": "",
+"text": "Birdsong (Faulks)",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"birdsong"
+]
+},
+{
+"id": "4.2.1-OWLW",
+"short": "",
+"text": "Oh! What a Lovely War (Littlewood)",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"oh-what-a-lovely-war"
+]
+},
+{
+"id": "4.2.1-JEND",
+"short": "",
+"text": "Journey's End (Sherriff)",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"journeys-end"
+]
+},
+{
+"id": "4.2.1-UPLD",
+"short": "",
+"text": "Up the Line to Death (ed. Gardner)",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"up-the-line-to-death"
+]
+},
+{
+"id": "4.2.1-SCARS",
+"short": "",
+"text": "Scars Upon My Heart (ed. Reilly)",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"scars-upon-my-heart"
+]
+}
+]
+},
+{
+"code": "4.2.2",
+"title": "Modern times: core set texts (Paper 2B)",
+"paper": 2,
+"option": "Paper 2 option",
+"area": null,
+"theme": null,
+"aLevelOnly": true,
+"topic": "the-handmaids-tale",
+"statements": [
+{
+"id": "4.2.2-HMT",
+"short": "",
+"text": "The Handmaid's Tale (Atwood)",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"the-handmaids-tale"
+]
+},
+{
+"id": "4.2.2-WATL",
+"short": "",
+"text": "Waterland (Swift)",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"waterland"
+]
+},
+{
+"id": "4.2.2-TOPG",
+"short": "",
+"text": "Top Girls (Churchill)",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"top-girls"
+]
+},
+{
+"id": "4.2.2-STREET",
+"short": "",
+"text": "A Streetcar Named Desire (Williams)",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"a-streetcar-named-desire"
+]
+},
+{
+"id": "4.2.2-FEMG",
+"short": "",
+"text": "Feminine Gospels (Duffy)",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"feminine-gospels"
+]
+},
+{
+"id": "4.2.2-SKIR",
+"short": "",
+"text": "Skirrid Hill (Sheers)",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"skirrid-hill"
+]
+}
+]
+}
+]

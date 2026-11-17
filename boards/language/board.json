@@ -1,0 +1,328 @@
+{
+ "id": "language",
+ "short": "AQA",
+ "subj": "English Language",
+ "full": "AQA A-level English Language",
+ "holder": "AQA",
+ "alCode": "7702",
+ "asCode": "7701",
+ "codes": "7702 and AS 7701",
+ "spec": "AQA AS and A-level English Language (7701/7702, specification version 1.2).",
+ "materials": "https://www.aqa.org.uk/subjects/english/as-and-a-level/english-language-7701-7702/assessment-resources",
+ "specUrl": "https://www.aqa.org.uk/subjects/english/a-level/english-7702/specification",
+ "store": "eng-lang",
+ "since": 2016,
+ "wa": "AQA",
+ "groups": [
+  [
+   "Textual variations and representations",
+   "P1",
+   1,
+   "book",
+   "A-level Paper 1 Section A (Questions 1–3); AS Paper 1 (Questions 1–3)"
+  ],
+  [
+   "Children's language development",
+   "CLD",
+   2,
+   "child",
+   "A-level Paper 1 Section B (Question 4 or 5)"
+  ],
+  [
+   "Language diversity and change",
+   "P2",
+   3,
+   "people",
+   "A-level Paper 2 Section A (Question 1 or 2); AS Paper 2 Section A"
+  ],
+  [
+   "Language discourses and writing",
+   "DW",
+   4,
+   "pen",
+   "A-level Paper 2 Section B (Questions 3 and 4); AS Paper 2 Section B"
+  ]
+ ],
+ "alPapers": [
+  [
+   "1",
+   "Paper 1: Language, the individual and society"
+  ],
+  [
+   "2",
+   "Paper 2: Language diversity and change"
+  ]
+ ],
+ "asPapers": [
+  [
+   "1",
+   "Paper 1: Language and the individual"
+  ],
+  [
+   "2",
+   "Paper 2: Language varieties"
+  ]
+ ],
+ "types": [
+  [
+   "text-analysis",
+   "Text analysis",
+   "Text analysis: meanings and representations (25 marks)",
+   "\"Analyse how Text A uses language to create meanings and representations\": Paper 1 Questions 1 and 2 (A level and AS). AO1 rewards systematic analysis across the language levels with accurate terminology; AO3 rewards linking the features to context, purpose and the representations the text builds."
+  ],
+  [
+   "text-comparison",
+   "Text comparison",
+   "Comparing two texts (20 marks)",
+   "Question 3 on Paper 1: explore connections between the two texts (AO4), drawing on the analysis you've just done. The top level covers similarities and differences at several language levels, linked to context."
+  ],
+  [
+   "child-language-acquisition",
+   "Child language essay",
+   "Child language acquisition essays (30 marks)",
+   "A-level Paper 1 Section B: an essay on children's language development, discussing a statement using the data provided and your knowledge of theories and research (AO1 and AO2)."
+  ],
+  [
+   "language-diversity-essays",
+   "Diversity essay",
+   "Language diversity and change essays (30 marks)",
+   "A-level Paper 2 Section A and AS Paper 2 Section A: evaluate an idea about accent, dialect, gender, occupation, ethnicity, world Englishes or language change, using concepts, research and examples (AO1 and AO2)."
+  ],
+  [
+   "discourse-analysis",
+   "Discourse analysis",
+   "Language discourses: analysing two texts (40 marks)",
+   "A-level Paper 2 Question 3: analyse how two texts present ideas and attitudes about language and how they position the reader, linking them to wider discourses (AO2, AO3 and AO4)."
+  ],
+  [
+   "directed-writing",
+   "Directed writing",
+   "Directed writing: the opinion article (30 marks)",
+   "A-level Paper 2 Question 4 and AS Paper 2 Question 3: write an opinion article (or similar) about a language issue for a non-specialist audience (AO2 and AO5). AS Question 3 is a 40-mark combined analysis and writing task."
+  ]
+ ],
+ "homeTop": [
+  "representation",
+  "identity-relationships",
+  "child-language-theories",
+  "child-language-speech",
+  "language-and-gender",
+  "accent-and-dialect",
+  "language-change",
+  "attitudes-to-language",
+  "language-discourses",
+  "directed-writing"
+ ],
+ "homeTiles": [
+  [
+   "text-analysis",
+   "Text analysis",
+   "Every Text A and Text B analysis question, with the texts from the insert",
+   "book",
+   "Analysis"
+  ],
+  [
+   "child-language-acquisition",
+   "Child language acquisition",
+   "Every CLA essay with its data, mark scheme and examiner's comment",
+   "lightbulb",
+   "CLA"
+  ]
+ ],
+ "searchHint": "e.g. accent, gender, child language, opinion article",
+ "levels": {
+  "20": [
+   [
+    1,
+    2
+   ],
+   [
+    2,
+    6
+   ],
+   [
+    3,
+    10
+   ],
+   [
+    4,
+    14
+   ],
+   [
+    5,
+    18
+   ]
+  ],
+  "25": [
+   [
+    1,
+    3
+   ],
+   [
+    2,
+    8
+   ],
+   [
+    3,
+    13
+   ],
+   [
+    4,
+    18
+   ],
+   [
+    5,
+    23
+   ]
+  ],
+  "30": [
+   [
+    1,
+    3
+   ],
+   [
+    2,
+    9
+   ],
+   [
+    3,
+    15
+   ],
+   [
+    4,
+    21
+   ],
+   [
+    5,
+    27
+   ]
+  ],
+  "40": [
+   [
+    1,
+    4
+   ],
+   [
+    2,
+    12
+   ],
+   [
+    3,
+    20
+   ],
+   [
+    4,
+    28
+   ],
+   [
+    5,
+    36
+   ]
+  ]
+ },
+ "levelsNote": "AQA marks English Language answers in five levels for each assessment objective, and adds the AO marks together. The quick self-mark here uses five equal levels for the whole question (for a 25-mark question: about 3, 8, 13, 18 or 23); the mark scheme shows the split by AO.",
+ "essayMarks": [
+  20,
+  25,
+  30,
+  40
+ ],
+ "mock": [
+  {
+   "level": "A level",
+   "paper": "Paper 1",
+   "title": "A-level Paper 1: Language, the individual and society",
+   "minutes": 150,
+   "marks": 100,
+   "slots": [
+    {
+     "label": "Section A: Textual variations and representations (Questions 1–3)",
+     "nums": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "label": "Section B: Children's language development (one of Question 4 or 5)",
+     "nums": [
+      4,
+      5
+     ],
+     "one": true
+    }
+   ]
+  },
+  {
+   "level": "A level",
+   "paper": "Paper 2",
+   "title": "A-level Paper 2: Language diversity and change",
+   "minutes": 150,
+   "marks": 100,
+   "slots": [
+    {
+     "label": "Section A: Diversity and change (one of Question 1 or 2)",
+     "nums": [
+      1,
+      2
+     ],
+     "one": true
+    },
+    {
+     "label": "Section B: Language discourses and writing (Questions 3 and 4)",
+     "nums": [
+      3,
+      4
+     ]
+    }
+   ]
+  },
+  {
+   "level": "AS",
+   "paper": "Paper 1",
+   "title": "AS Paper 1: Language and the individual",
+   "minutes": 90,
+   "marks": 70,
+   "slots": [
+    {
+     "label": "Textual variations and representations (Questions 1–3)",
+     "nums": [
+      1,
+      2,
+      3
+     ]
+    }
+   ]
+  },
+  {
+   "level": "AS",
+   "paper": "Paper 2",
+   "title": "AS Paper 2: Language varieties",
+   "minutes": 90,
+   "marks": 70,
+   "slots": [
+    {
+     "label": "Section A: Language diversity (one of Question 1 or 2)",
+     "nums": [
+      1,
+      2
+     ],
+     "one": true
+    },
+    {
+     "label": "Section B: Language discourses (Question 3)",
+     "nums": [
+      3
+     ]
+    }
+   ]
+  }
+ ],
+ "mockExclude": [],
+ "nea": {
+  "name": "NEA (Language in Action)",
+  "max": 100
+ },
+ "pastPapersNote": "AQA's own site now starts at November 2020. The June 2016–2019 papers here are AQA's original papers, taken from copies kept online. The November 2020 and November 2021 papers are the papers printed for the cancelled summer 2020 and 2021 exams. Some texts in AQA's published papers and inserts are removed for copyright; the question says so where that happens. The June 2026 papers will be added when AQA releases them, expected after the summer 2027 exams.",
+ "latestNote": "AQA keeps each summer's papers secure for about a year: the June 2026 papers are expected after the summer 2027 exams."
+}

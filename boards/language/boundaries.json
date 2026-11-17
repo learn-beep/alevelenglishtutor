@@ -1,0 +1,77 @@
+{
+ "max": 500,
+ "papers": [
+  [
+   "Paper 1",
+   100,
+   2
+  ],
+  [
+   "Paper 2",
+   100,
+   2
+  ],
+  [
+   "NEA (Language in Action)",
+   100,
+   1
+  ]
+ ],
+ "intro": "Paper 1 and Paper 2 are each marked out of 100 and the NEA (Language in Action) out of 100. AQA doubles each paper's mark, so the overall boundaries are out of 500 (40% for each paper and 20% for the NEA); the calculator does the doubling for you.",
+ "source": "AQA's published subject grade boundaries for A-level English Language (7702), out of 500: June 2026, 2025, 2024, 2023 and 2022 boundary documents.",
+ "components": "",
+ "alevel": [
+  {
+   "series": "June 2026",
+   "max": 500,
+   "A*": 432,
+   "A": 397,
+   "B": 343,
+   "C": 290,
+   "D": 237,
+   "E": 184
+  },
+  {
+   "series": "June 2025",
+   "max": 500,
+   "A*": 433,
+   "A": 397,
+   "B": 341,
+   "C": 285,
+   "D": 229,
+   "E": 174
+  },
+  {
+   "series": "June 2024",
+   "max": 500,
+   "A*": 433,
+   "A": 399,
+   "B": 342,
+   "C": 286,
+   "D": 230,
+   "E": 174
+  },
+  {
+   "series": "June 2023",
+   "max": 500,
+   "A*": 430,
+   "A": 391,
+   "B": 329,
+   "C": 267,
+   "D": 205,
+   "E": 144
+  },
+  {
+   "series": "June 2022",
+   "max": 500,
+   "A*": 412,
+   "A": 372,
+   "B": 316,
+   "C": 260,
+   "D": 204,
+   "E": 149
+  }
+ ],
+ "as": [],
+ "asSource": "AS English Language (7701) is out of 140 (two 70-mark papers); see AQA's AS grade boundaries document for each year's figures."
+}

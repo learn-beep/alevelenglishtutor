@@ -1,0 +1,509 @@
+[
+{
+"slug": "representation",
+"name": "Meanings and representations in texts",
+"group": "Textual variations and representations",
+"strand": "Textual variations and representations",
+"paper": "Textual variations and representations",
+"code": "4.1.1, 4.2.1",
+"option": null,
+"statements": [
+"4.1.1-03",
+"4.1.1-06",
+"4.2.1-10"
+],
+"statementText": {
+"4.1.1-03": "how language is used to construct meanings and representations; how representations are produced",
+"4.1.1-06": "the functions of the texts; the structure and organisation of the texts",
+"4.2.1-10": "how language is used to represent different groups"
+},
+"statementShort": {
+"4.1.1-03": "",
+"4.1.1-06": "",
+"4.2.1-10": ""
+},
+"asStatements": [
+"4.1.1-03",
+"4.1.1-06",
+"4.2.1-10"
+],
+"levels": {
+"4.1.1-03": null,
+"4.1.1-06": null,
+"4.2.1-10": null
+},
+"parts": 61,
+"marks": 1490,
+"essays": 61,
+"mcq": 0,
+"papers": [
+"Paper 1",
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "audience-purpose-context",
+"name": "Audience, purpose, genre and context",
+"group": "Textual variations and representations",
+"strand": "Textual variations and representations",
+"paper": "Textual variations and representations",
+"code": "4.1.1",
+"option": null,
+"statements": [
+"4.1.1-01",
+"4.1.1-02"
+],
+"statementText": {
+"4.1.1-01": "how language is shaped according to audience, purpose, genre and mode",
+"4.1.1-02": "how language is shaped according to context, including texts from different times and places (global, national, regional)"
+},
+"statementShort": {
+"4.1.1-01": "",
+"4.1.1-02": ""
+},
+"asStatements": [
+"4.1.1-01",
+"4.1.1-02"
+],
+"levels": {
+"4.1.1-01": null,
+"4.1.1-02": null
+},
+"parts": 36,
+"marks": 815,
+"essays": 36,
+"mcq": 0,
+"papers": [
+"Paper 1",
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "identity-relationships",
+"name": "Identity and relationships in language",
+"group": "Textual variations and representations",
+"strand": "Textual variations and representations",
+"paper": "Textual variations and representations",
+"code": "4.1.1, 4.2.1",
+"option": null,
+"statements": [
+"4.1.1-04",
+"4.1.1-05",
+"4.2.1-09"
+],
+"statementText": {
+"4.1.1-04": "how language is used to enact relationships between writers, speakers and audiences or between participants within a text; how audiences are addressed and positioned",
+"4.1.1-05": "how identity is constructed",
+"4.2.1-09": "how identity is constructed and relationships enacted through language variety"
+},
+"statementShort": {
+"4.1.1-04": "",
+"4.1.1-05": "",
+"4.2.1-09": ""
+},
+"asStatements": [
+"4.1.1-04",
+"4.1.1-05",
+"4.2.1-09"
+],
+"levels": {
+"4.1.1-04": null,
+"4.1.1-05": null,
+"4.2.1-09": null
+},
+"parts": 46,
+"marks": 1205,
+"essays": 46,
+"mcq": 0,
+"papers": [
+"Paper 1",
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "child-language-speech",
+"name": "Child language acquisition: speech",
+"group": "Children's language development",
+"strand": "Children's language development",
+"paper": "Children's language development",
+"code": "4.1.3",
+"option": null,
+"statements": [
+"4.1.3-01",
+"4.1.3-02"
+],
+"statementText": {
+"4.1.3-01": "the functions of children's language",
+"4.1.3-02": "phonological, pragmatic, lexical, semantic and grammatical development (spoken language)"
+},
+"statementShort": {
+"4.1.3-01": "",
+"4.1.3-02": ""
+},
+"asStatements": [],
+"levels": {
+"4.1.3-01": null,
+"4.1.3-02": null
+},
+"parts": 9,
+"marks": 270,
+"essays": 9,
+"mcq": 0,
+"papers": [
+"Paper 1"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "child-language-literacy",
+"name": "Child language: literacy and writing",
+"group": "Children's language development",
+"strand": "Children's language development",
+"paper": "Children's language development",
+"code": "4.1.3",
+"option": null,
+"statements": [
+"4.1.3-03",
+"4.1.3-04"
+],
+"statementText": {
+"4.1.3-03": "different genres of speech and writing; learning to read and write (literacy development)",
+"4.1.3-04": "different modes of communication (spoken, written, multimodal)"
+},
+"statementShort": {
+"4.1.3-03": "",
+"4.1.3-04": ""
+},
+"asStatements": [],
+"levels": {
+"4.1.3-03": null,
+"4.1.3-04": null
+},
+"parts": 9,
+"marks": 270,
+"essays": 9,
+"mcq": 0,
+"papers": [
+"Paper 1"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "child-language-theories",
+"name": "Child language acquisition theories",
+"group": "Children's language development",
+"strand": "Children's language development",
+"paper": "Children's language development",
+"code": "4.1.3",
+"option": null,
+"statements": [
+"4.1.3-05"
+],
+"statementText": {
+"4.1.3-05": "theories and research about language development (e.g. role of caregivers/interaction, nativist, cognitive, behaviourist)"
+},
+"statementShort": {
+"4.1.3-05": ""
+},
+"asStatements": [],
+"levels": {
+"4.1.3-05": null
+},
+"parts": 18,
+"marks": 540,
+"essays": 18,
+"mcq": 0,
+"papers": [
+"Paper 1"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "occupational-language",
+"name": "Occupational and social group language",
+"group": "Language diversity and change",
+"strand": "Language diversity and change",
+"paper": "Language diversity and change",
+"code": "4.2.1",
+"option": null,
+"statements": [
+"4.2.1-01"
+],
+"statementText": {
+"4.2.1-01": "sociolects — social and occupational groups (incl. social class, age, occupation, communities of practice)"
+},
+"statementShort": {
+"4.2.1-01": ""
+},
+"asStatements": [
+"4.2.1-01"
+],
+"levels": {
+"4.2.1-01": null
+},
+"parts": 15,
+"marks": 480,
+"essays": 15,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "language-and-gender",
+"name": "Language and gender",
+"group": "Language diversity and change",
+"strand": "Language diversity and change",
+"paper": "Language diversity and change",
+"code": "4.2.1",
+"option": null,
+"statements": [
+"4.2.1-02"
+],
+"statementText": {
+"4.2.1-02": "sociolects — gender (incl. sexuality)"
+},
+"statementShort": {
+"4.2.1-02": ""
+},
+"asStatements": [
+"4.2.1-02"
+],
+"levels": {
+"4.2.1-02": null
+},
+"parts": 11,
+"marks": 370,
+"essays": 11,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "ethnicity-world-englishes",
+"name": "Ethnicity and world Englishes",
+"group": "Language diversity and change",
+"strand": "Language diversity and change",
+"paper": "Language diversity and change",
+"code": "4.2.1",
+"option": null,
+"statements": [
+"4.2.1-03",
+"4.2.1-05"
+],
+"statementText": {
+"4.2.1-03": "sociolects — ethnicity",
+"4.2.1-05": "international varieties of English; global English and world Englishes"
+},
+"statementShort": {
+"4.2.1-03": "",
+"4.2.1-05": ""
+},
+"asStatements": [],
+"levels": {
+"4.2.1-03": null,
+"4.2.1-05": null
+},
+"parts": 4,
+"marks": 120,
+"essays": 4,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "accent-and-dialect",
+"name": "Accent and dialect",
+"group": "Language diversity and change",
+"strand": "Language diversity and change",
+"paper": "Language diversity and change",
+"code": "4.2.1",
+"option": null,
+"statements": [
+"4.2.1-04"
+],
+"statementText": {
+"4.2.1-04": "dialects — regional and national varieties of English within the British Isles (accent and dialect)"
+},
+"statementShort": {
+"4.2.1-04": ""
+},
+"asStatements": [
+"4.2.1-04"
+],
+"levels": {
+"4.2.1-04": null
+},
+"parts": 12,
+"marks": 370,
+"essays": 12,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "language-change",
+"name": "Language change",
+"group": "Language diversity and change",
+"strand": "Language diversity and change",
+"paper": "Language diversity and change",
+"code": "4.2.1",
+"option": null,
+"statements": [
+"4.2.1-06"
+],
+"statementText": {
+"4.2.1-06": "language change — texts from different periods (1600 to the present day); processes and explanations of language change"
+},
+"statementShort": {
+"4.2.1-06": ""
+},
+"asStatements": [],
+"levels": {
+"4.2.1-06": null
+},
+"parts": 12,
+"marks": 360,
+"essays": 12,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "attitudes-to-language",
+"name": "Language variation and attitudes to it",
+"group": "Language diversity and change",
+"strand": "Language diversity and change",
+"paper": "Language diversity and change",
+"code": "4.2.1",
+"option": null,
+"statements": [
+"4.2.1-07",
+"4.2.1-08"
+],
+"statementText": {
+"4.2.1-07": "how and why language varies (personal, social, geographical, temporal contexts); different views and explanations of variation and change",
+"4.2.1-08": "attitudes to language variation and change (prescriptivism, descriptivism, standard English, prestige)"
+},
+"statementShort": {
+"4.2.1-07": "",
+"4.2.1-08": ""
+},
+"asStatements": [
+"4.2.1-07",
+"4.2.1-08"
+],
+"levels": {
+"4.2.1-07": null,
+"4.2.1-08": null
+},
+"parts": 41,
+"marks": 1250,
+"essays": 41,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "language-discourses",
+"name": "Language discourses",
+"group": "Language discourses and writing",
+"strand": "Language discourses and writing",
+"paper": "Language discourses and writing",
+"code": "4.2.3",
+"option": null,
+"statements": [
+"4.2.3-01",
+"4.2.3-02",
+"4.2.3-03",
+"4.2.3-04"
+],
+"statementText": {
+"4.2.3-01": "how texts represent language (views and opinions about language issues)",
+"4.2.3-02": "how texts construct an identity for the producer",
+"4.2.3-03": "how texts position the reader and seek to influence them",
+"4.2.3-04": "how texts are connected to wider discourses about language"
+},
+"statementShort": {
+"4.2.3-01": "",
+"4.2.3-02": "",
+"4.2.3-03": "",
+"4.2.3-04": ""
+},
+"asStatements": [
+"4.2.3-01",
+"4.2.3-02",
+"4.2.3-03",
+"4.2.3-04"
+],
+"levels": {
+"4.2.3-01": null,
+"4.2.3-02": null,
+"4.2.3-03": null,
+"4.2.3-04": null
+},
+"parts": 9,
+"marks": 360,
+"essays": 9,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "directed-writing",
+"name": "Directed writing: opinion articles",
+"group": "Language discourses and writing",
+"strand": "Language discourses and writing",
+"paper": "Language discourses and writing",
+"code": "4.2.4",
+"option": null,
+"statements": [
+"4.2.4-01",
+"4.2.4-02",
+"4.2.4-03"
+],
+"statementText": {
+"4.2.4-01": "writing discursively about language issues in an academic essay",
+"4.2.4-02": "writing analytically about texts as parts of discourses about language",
+"4.2.4-03": "writing about language issues in a variety of forms to communicate ideas to a non-specialist audience"
+},
+"statementShort": {
+"4.2.4-01": "",
+"4.2.4-02": "",
+"4.2.4-03": ""
+},
+"asStatements": [
+"4.2.4-01",
+"4.2.4-03"
+],
+"levels": {
+"4.2.4-01": null,
+"4.2.4-02": null,
+"4.2.4-03": null
+},
+"parts": 63,
+"marks": 2070,
+"essays": 63,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "AS and A level"
+}
+]

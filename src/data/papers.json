@@ -1,0 +1,929 @@
+[
+{
+"id": "7701-1-JUN25",
+"bundle": null,
+"series": "June 2025",
+"year": 2025,
+"qual": "AS",
+"spec": "7701",
+"paperNo": "1",
+"paper": "Paper 1",
+"name": "Language and the individual",
+"total": 70,
+"source": "AQA",
+"kind": "exam",
+"files": {
+"qp": "7701/2025-06/7701_2025-06_P1_QP.pdf",
+"ms": "7701/2025-06/7701_2025-06_P1_MS.pdf",
+"er": "7701/2025-06/7701_2025-06_P1_ER.pdf"
+},
+"slug": "june-2025-7701-1",
+"questions": [
+"7701-1-JUN25-01",
+"7701-1-JUN25-02",
+"7701-1-JUN25-03"
+]
+},
+{
+"id": "7701-2-JUN25",
+"bundle": null,
+"series": "June 2025",
+"year": 2025,
+"qual": "AS",
+"spec": "7701",
+"paperNo": "2",
+"paper": "Paper 2",
+"name": "Language varieties",
+"total": 70,
+"source": "AQA",
+"kind": "exam",
+"files": {
+"qp": "7701/2025-06/7701_2025-06_P2_QP.pdf",
+"ms": "7701/2025-06/7701_2025-06_P2_MS.pdf",
+"er": "7701/2025-06/7701_2025-06_P2_ER.pdf"
+},
+"slug": "june-2025-7701-2",
+"questions": [
+"7701-2-JUN25-01",
+"7701-2-JUN25-02",
+"7701-2-JUN25-03"
+]
+},
+{
+"id": "7702-1-JUN25",
+"bundle": null,
+"series": "June 2025",
+"year": 2025,
+"qual": "A-level",
+"spec": "7702",
+"paperNo": "1",
+"paper": "Paper 1",
+"name": "Language, the individual and society",
+"total": 100,
+"source": "AQA",
+"kind": "exam",
+"files": {
+"qp": "7702/2025-06/7702_2025-06_P1_QP.pdf",
+"ms": "7702/2025-06/7702_2025-06_P1_MS.pdf",
+"er": "7702/2025-06/7702_2025-06_P1_ER.pdf"
+},
+"slug": "june-2025-7702-1",
+"questions": [
+"7702-1-JUN25-01",
+"7702-1-JUN25-02",
+"7702-1-JUN25-03",
+"7702-1-JUN25-04",
+"7702-1-JUN25-05"
+]
+},
+{
+"id": "7702-2-JUN25",
+"bundle": null,
+"series": "June 2025",
+"year": 2025,
+"qual": "A-level",
+"spec": "7702",
+"paperNo": "2",
+"paper": "Paper 2",
+"name": "Language diversity and change",
+"total": 100,
+"source": "AQA",
+"kind": "exam",
+"files": {
+"qp": "7702/2025-06/7702_2025-06_P2_QP.pdf",
+"ms": "7702/2025-06/7702_2025-06_P2_MS.pdf",
+"er": "7702/2025-06/7702_2025-06_P2_ER.pdf"
+},
+"slug": "june-2025-7702-2",
+"questions": [
+"7702-2-JUN25-01",
+"7702-2-JUN25-02",
+"7702-2-JUN25-03",
+"7702-2-JUN25-04"
+]
+},
+{
+"id": "7701-1-JUN24",
+"bundle": null,
+"series": "June 2024",
+"year": 2024,
+"qual": "AS",
+"spec": "7701",
+"paperNo": "1",
+"paper": "Paper 1",
+"name": "Language and the individual",
+"total": 70,
+"source": "AQA",
+"kind": "exam",
+"files": {
+"qp": "7701/2024-06/7701_2024-06_P1_QP.pdf",
+"ms": "7701/2024-06/7701_2024-06_P1_MS.pdf",
+"er": "7701/2024-06/7701_2024-06_P1_ER.pdf"
+},
+"slug": "june-2024-7701-1",
+"questions": [
+"7701-1-JUN24-01",
+"7701-1-JUN24-02",
+"7701-1-JUN24-03"
+]
+},
+{
+"id": "7701-2-JUN24",
+"bundle": null,
+"series": "June 2024",
+"year": 2024,
+"qual": "AS",
+"spec": "7701",
+"paperNo": "2",
+"paper": "Paper 2",
+"name": "Language varieties",
+"total": 70,
+"source": "AQA",
+"kind": "exam",
+"files": {
+"qp": "7701/2024-06/7701_2024-06_P2_QP.pdf",
+"ms": "7701/2024-06/7701_2024-06_P2_MS.pdf",
+"er": "7701/2024-06/7701_2024-06_P2_ER.pdf"
+},
+"slug": "june-2024-7701-2",
+"questions": [
+"7701-2-JUN24-01",
+"7701-2-JUN24-02",
+"7701-2-JUN24-03"
+]
+},
+{
+"id": "7702-1-JUN24",
+"bundle": null,
+"series": "June 2024",
+"year": 2024,
+"qual": "A-level",
+"spec": "7702",
+"paperNo": "1",
+"paper": "Paper 1",
+"name": "Language, the individual and society",
+"total": 100,
+"source": "AQA",
+"kind": "exam",
+"files": {
+"qp": "7702/2024-06/7702_2024-06_P1_QP.pdf",
+"ms": "7702/2024-06/7702_2024-06_P1_MS.pdf",
+"er": null
+},
+"slug": "june-2024-7702-1",
+"questions": [
+"7702-1-JUN24-01",
+"7702-1-JUN24-02",
+"7702-1-JUN24-03",
+"7702-1-JUN24-04",
+"7702-1-JUN24-05"
+]
+},
+{
+"id": "7702-2-JUN24",
+"bundle": null,
+"series": "June 2024",
+"year": 2024,
+"qual": "A-level",
+"spec": "7702",
+"paperNo": "2",
+"paper": "Paper 2",
+"name": "Language diversity and change",
+"total": 100,
+"source": "AQA",
+"kind": "exam",
+"files": {
+"qp": "7702/2024-06/7702_2024-06_P2_QP.pdf",
+"ms": "7702/2024-06/7702_2024-06_P2_MS.pdf",
+"er": null
+},
+"slug": "june-2024-7702-2",
+"questions": [
+"7702-2-JUN24-01",
+"7702-2-JUN24-02",
+"7702-2-JUN24-03",
+"7702-2-JUN24-04"
+]
+},
+{
+"id": "7701-1-JUN23",
+"bundle": null,
+"series": "June 2023",
+"year": 2023,
+"qual": "AS",
+"spec": "7701",
+"paperNo": "1",
+"paper": "Paper 1",
+"name": "Language and the individual",
+"total": 70,
+"source": "AQA",
+"kind": "exam",
+"files": {
+"qp": "7701/2023-06/7701_2023-06_P1_QP.pdf",
+"ms": "7701/2023-06/7701_2023-06_P1_MS.pdf",
+"er": "7701/2023-06/7701_2023-06_P1_ER.pdf"
+},
+"slug": "june-2023-7701-1",
+"questions": [
+"7701-1-JUN23-01",
+"7701-1-JUN23-02",
+"7701-1-JUN23-03"
+]
+},
+{
+"id": "7701-2-JUN23",
+"bundle": null,
+"series": "June 2023",
+"year": 2023,
+"qual": "AS",
+"spec": "7701",
+"paperNo": "2",
+"paper": "Paper 2",
+"name": "Language varieties",
+"total": 70,
+"source": "AQA",
+"kind": "exam",
+"files": {
+"qp": "7701/2023-06/7701_2023-06_P2_QP.pdf",
+"ms": "7701/2023-06/7701_2023-06_P2_MS.pdf",
+"er": "7701/2023-06/7701_2023-06_P2_ER.pdf"
+},
+"slug": "june-2023-7701-2",
+"questions": [
+"7701-2-JUN23-01",
+"7701-2-JUN23-02",
+"7701-2-JUN23-03"
+]
+},
+{
+"id": "7702-1-JUN23",
+"bundle": null,
+"series": "June 2023",
+"year": 2023,
+"qual": "A-level",
+"spec": "7702",
+"paperNo": "1",
+"paper": "Paper 1",
+"name": "Language, the individual and society",
+"total": 100,
+"source": "AQA",
+"kind": "exam",
+"files": {
+"qp": "7702/2023-06/7702_2023-06_P1_QP.pdf",
+"ms": "7702/2023-06/7702_2023-06_P1_MS.pdf",
+"er": "7702/2023-06/7702_2023-06_P1_ER.pdf"
+},
+"slug": "june-2023-7702-1",
+"questions": [
+"7702-1-JUN23-01",
+"7702-1-JUN23-02",
+"7702-1-JUN23-03",
+"7702-1-JUN23-04",
+"7702-1-JUN23-05"
+]
+},
+{
+"id": "7702-2-JUN23",
+"bundle": null,
+"series": "June 2023",
+"year": 2023,
+"qual": "A-level",
+"spec": "7702",
+"paperNo": "2",
+"paper": "Paper 2",
+"name": "Language diversity and change",
+"total": 100,
+"source": "AQA",
+"kind": "exam",
+"files": {
+"qp": "7702/2023-06/7702_2023-06_P2_QP.pdf",
+"ms": "7702/2023-06/7702_2023-06_P2_MS.pdf",
+"er": "7702/2023-06/7702_2023-06_P2_ER.pdf"
+},
+"slug": "june-2023-7702-2",
+"questions": [
+"7702-2-JUN23-01",
+"7702-2-JUN23-02",
+"7702-2-JUN23-03",
+"7702-2-JUN23-04"
+]
+},
+{
+"id": "7701-1-JUN22",
+"bundle": null,
+"series": "June 2022",
+"year": 2022,
+"qual": "AS",
+"spec": "7701",
+"paperNo": "1",
+"paper": "Paper 1",
+"name": "Language and the individual",
+"total": 70,
+"source": "AQA",
+"kind": "exam",
+"files": {
+"qp": "7701/2022-06/7701_2022-06_P1_QP.pdf",
+"ms": "7701/2022-06/7701_2022-06_P1_MS.pdf",
+"er": "7701/2022-06/7701_2022-06_P1_ER.pdf"
+},
+"slug": "june-2022-7701-1",
+"questions": [
+"7701-1-JUN22-01",
+"7701-1-JUN22-02",
+"7701-1-JUN22-03"
+]
+},
+{
+"id": "7701-2-JUN22",
+"bundle": null,
+"series": "June 2022",
+"year": 2022,
+"qual": "AS",
+"spec": "7701",
+"paperNo": "2",
+"paper": "Paper 2",
+"name": "Language varieties",
+"total": 70,
+"source": "AQA",
+"kind": "exam",
+"files": {
+"qp": "7701/2022-06/7701_2022-06_P2_QP.pdf",
+"ms": "7701/2022-06/7701_2022-06_P2_MS.pdf",
+"er": "7701/2022-06/7701_2022-06_P2_ER.pdf"
+},
+"slug": "june-2022-7701-2",
+"questions": [
+"7701-2-JUN22-01",
+"7701-2-JUN22-02",
+"7701-2-JUN22-03"
+]
+},
+{
+"id": "7702-1-JUN22",
+"bundle": null,
+"series": "June 2022",
+"year": 2022,
+"qual": "A-level",
+"spec": "7702",
+"paperNo": "1",
+"paper": "Paper 1",
+"name": "Language, the individual and society",
+"total": 100,
+"source": "AQA",
+"kind": "exam",
+"files": {
+"qp": "7702/2022-06/7702_2022-06_P1_QP.pdf",
+"ms": "7702/2022-06/7702_2022-06_P1_MS.pdf",
+"er": "7702/2022-06/7702_2022-06_P1_ER.pdf"
+},
+"slug": "june-2022-7702-1",
+"questions": [
+"7702-1-JUN22-01",
+"7702-1-JUN22-02",
+"7702-1-JUN22-03",
+"7702-1-JUN22-04",
+"7702-1-JUN22-05"
+]
+},
+{
+"id": "7702-2-JUN22",
+"bundle": null,
+"series": "June 2022",
+"year": 2022,
+"qual": "A-level",
+"spec": "7702",
+"paperNo": "2",
+"paper": "Paper 2",
+"name": "Language diversity and change",
+"total": 100,
+"source": "AQA",
+"kind": "exam",
+"files": {
+"qp": "7702/2022-06/7702_2022-06_P2_QP.pdf",
+"ms": "7702/2022-06/7702_2022-06_P2_MS.pdf",
+"er": "7702/2022-06/7702_2022-06_P2_ER.pdf"
+},
+"slug": "june-2022-7702-2",
+"questions": [
+"7702-2-JUN22-01",
+"7702-2-JUN22-02",
+"7702-2-JUN22-03",
+"7702-2-JUN22-04"
+]
+},
+{
+"id": "7702-1-NOV21",
+"bundle": null,
+"series": "November 2021",
+"year": 2021,
+"qual": "A-level",
+"spec": "7702",
+"paperNo": "1",
+"paper": "Paper 1",
+"name": "Language, the individual and society",
+"total": 100,
+"source": "AQA",
+"kind": "exam",
+"files": {
+"qp": "7702/2021-11/7702_2021-11_P1_QP.pdf",
+"ms": "7702/2021-11/7702_2021-11_P1_MS.pdf",
+"er": null
+},
+"slug": "november-2021-7702-1",
+"questions": [
+"7702-1-NOV21-01",
+"7702-1-NOV21-02",
+"7702-1-NOV21-03",
+"7702-1-NOV21-04",
+"7702-1-NOV21-05"
+]
+},
+{
+"id": "7702-2-NOV21",
+"bundle": null,
+"series": "November 2021",
+"year": 2021,
+"qual": "A-level",
+"spec": "7702",
+"paperNo": "2",
+"paper": "Paper 2",
+"name": "Language diversity and change",
+"total": 100,
+"source": "AQA",
+"kind": "exam",
+"files": {
+"qp": "7702/2021-11/7702_2021-11_P2_QP.pdf",
+"ms": "7702/2021-11/7702_2021-11_P2_MS.pdf",
+"er": null
+},
+"slug": "november-2021-7702-2",
+"questions": [
+"7702-2-NOV21-01",
+"7702-2-NOV21-02",
+"7702-2-NOV21-03",
+"7702-2-NOV21-04"
+]
+},
+{
+"id": "7701-1-NOV20",
+"bundle": null,
+"series": "November 2020",
+"year": 2020,
+"qual": "AS",
+"spec": "7701",
+"paperNo": "1",
+"paper": "Paper 1",
+"name": "Language and the individual",
+"total": 70,
+"source": "AQA",
+"kind": "exam",
+"files": {
+"qp": "7701/2020-11/7701_2020-11_P1_QP.pdf",
+"ms": "7701/2020-11/7701_2020-11_P1_MS.pdf",
+"er": null
+},
+"slug": "november-2020-7701-1",
+"questions": [
+"7701-1-NOV20-01",
+"7701-1-NOV20-02",
+"7701-1-NOV20-03"
+]
+},
+{
+"id": "7701-2-NOV20",
+"bundle": null,
+"series": "November 2020",
+"year": 2020,
+"qual": "AS",
+"spec": "7701",
+"paperNo": "2",
+"paper": "Paper 2",
+"name": "Language varieties",
+"total": 70,
+"source": "AQA",
+"kind": "exam",
+"files": {
+"qp": "7701/2020-11/7701_2020-11_P2_QP.pdf",
+"ms": "7701/2020-11/7701_2020-11_P2_MS.pdf",
+"er": null
+},
+"slug": "november-2020-7701-2",
+"questions": [
+"7701-2-NOV20-01",
+"7701-2-NOV20-02",
+"7701-2-NOV20-03"
+]
+},
+{
+"id": "7702-1-NOV20",
+"bundle": null,
+"series": "November 2020",
+"year": 2020,
+"qual": "A-level",
+"spec": "7702",
+"paperNo": "1",
+"paper": "Paper 1",
+"name": "Language, the individual and society",
+"total": 100,
+"source": "AQA",
+"kind": "exam",
+"files": {
+"qp": "7702/2020-11/7702_2020-11_P1_QP.pdf",
+"ms": "7702/2020-11/7702_2020-11_P1_MS.pdf",
+"er": null
+},
+"slug": "november-2020-7702-1",
+"questions": [
+"7702-1-NOV20-01",
+"7702-1-NOV20-02",
+"7702-1-NOV20-03",
+"7702-1-NOV20-04",
+"7702-1-NOV20-05"
+]
+},
+{
+"id": "7702-2-NOV20",
+"bundle": null,
+"series": "November 2020",
+"year": 2020,
+"qual": "A-level",
+"spec": "7702",
+"paperNo": "2",
+"paper": "Paper 2",
+"name": "Language diversity and change",
+"total": 100,
+"source": "AQA",
+"kind": "exam",
+"files": {
+"qp": "7702/2020-11/7702_2020-11_P2_QP.pdf",
+"ms": "7702/2020-11/7702_2020-11_P2_MS.pdf",
+"er": null
+},
+"slug": "november-2020-7702-2",
+"questions": [
+"7702-2-NOV20-01",
+"7702-2-NOV20-02",
+"7702-2-NOV20-03",
+"7702-2-NOV20-04"
+]
+},
+{
+"id": "7701-1-JUN19",
+"bundle": null,
+"series": "June 2019",
+"year": 2019,
+"qual": "AS",
+"spec": "7701",
+"paperNo": "1",
+"paper": "Paper 1",
+"name": "Language and the individual",
+"total": 70,
+"source": "third-party copy",
+"kind": "exam",
+"files": {
+"qp": "7701/2019-06/7701_2019-06_P1_QP.pdf",
+"ms": "7701/2019-06/7701_2019-06_P1_MS.pdf",
+"er": null
+},
+"slug": "june-2019-7701-1",
+"questions": [
+"7701-1-JUN19-01",
+"7701-1-JUN19-02",
+"7701-1-JUN19-03"
+]
+},
+{
+"id": "7701-2-JUN19",
+"bundle": null,
+"series": "June 2019",
+"year": 2019,
+"qual": "AS",
+"spec": "7701",
+"paperNo": "2",
+"paper": "Paper 2",
+"name": "Language varieties",
+"total": 70,
+"source": "third-party copy",
+"kind": "exam",
+"files": {
+"qp": "7701/2019-06/7701_2019-06_P2_QP.pdf",
+"ms": "7701/2019-06/7701_2019-06_P2_MS.pdf",
+"er": "7701/2019-06/7701_2019-06_P2_ER.pdf"
+},
+"slug": "june-2019-7701-2",
+"questions": [
+"7701-2-JUN19-01",
+"7701-2-JUN19-02",
+"7701-2-JUN19-03"
+]
+},
+{
+"id": "7702-1-JUN19",
+"bundle": null,
+"series": "June 2019",
+"year": 2019,
+"qual": "A-level",
+"spec": "7702",
+"paperNo": "1",
+"paper": "Paper 1",
+"name": "Language, the individual and society",
+"total": 100,
+"source": "third-party copy",
+"kind": "exam",
+"files": {
+"qp": "7702/2019-06/7702_2019-06_P1_QP.pdf",
+"ms": "7702/2019-06/7702_2019-06_P1_MS.pdf",
+"er": "7702/2019-06/7702_2019-06_P1_ER.pdf"
+},
+"slug": "june-2019-7702-1",
+"questions": [
+"7702-1-JUN19-01",
+"7702-1-JUN19-02",
+"7702-1-JUN19-03",
+"7702-1-JUN19-04",
+"7702-1-JUN19-05"
+]
+},
+{
+"id": "7702-2-JUN19",
+"bundle": null,
+"series": "June 2019",
+"year": 2019,
+"qual": "A-level",
+"spec": "7702",
+"paperNo": "2",
+"paper": "Paper 2",
+"name": "Language diversity and change",
+"total": 100,
+"source": "third-party copy",
+"kind": "exam",
+"files": {
+"qp": "7702/2019-06/7702_2019-06_P2_QP.pdf",
+"ms": "7702/2019-06/7702_2019-06_P2_MS.pdf",
+"er": "7702/2019-06/7702_2019-06_P2_ER.pdf"
+},
+"slug": "june-2019-7702-2",
+"questions": [
+"7702-2-JUN19-01",
+"7702-2-JUN19-02",
+"7702-2-JUN19-03",
+"7702-2-JUN19-04"
+]
+},
+{
+"id": "7701-1-JUN18",
+"bundle": null,
+"series": "June 2018",
+"year": 2018,
+"qual": "AS",
+"spec": "7701",
+"paperNo": "1",
+"paper": "Paper 1",
+"name": "Language and the individual",
+"total": 70,
+"source": "third-party copy",
+"kind": "exam",
+"files": {
+"qp": "7701/2018-06/7701_2018-06_P1_QP.pdf",
+"ms": "7701/2018-06/7701_2018-06_P1_MS.pdf",
+"er": "7701/2018-06/7701_2018-06_P1_ER.pdf"
+},
+"slug": "june-2018-7701-1",
+"questions": [
+"7701-1-JUN18-01",
+"7701-1-JUN18-02",
+"7701-1-JUN18-03"
+]
+},
+{
+"id": "7701-2-JUN18",
+"bundle": null,
+"series": "June 2018",
+"year": 2018,
+"qual": "AS",
+"spec": "7701",
+"paperNo": "2",
+"paper": "Paper 2",
+"name": "Language varieties",
+"total": 70,
+"source": "third-party copy",
+"kind": "exam",
+"files": {
+"qp": "7701/2018-06/7701_2018-06_P2_QP.pdf",
+"ms": "7701/2018-06/7701_2018-06_P2_MS.pdf",
+"er": "7701/2018-06/7701_2018-06_P2_ER.pdf"
+},
+"slug": "june-2018-7701-2",
+"questions": [
+"7701-2-JUN18-01",
+"7701-2-JUN18-02",
+"7701-2-JUN18-03"
+]
+},
+{
+"id": "7702-1-JUN18",
+"bundle": null,
+"series": "June 2018",
+"year": 2018,
+"qual": "A-level",
+"spec": "7702",
+"paperNo": "1",
+"paper": "Paper 1",
+"name": "Language, the individual and society",
+"total": 100,
+"source": "third-party copy",
+"kind": "exam",
+"files": {
+"qp": "7702/2018-06/7702_2018-06_P1_QP.pdf",
+"ms": "7702/2018-06/7702_2018-06_P1_MS.pdf",
+"er": "7702/2018-06/7702_2018-06_P1_ER.pdf"
+},
+"slug": "june-2018-7702-1",
+"questions": [
+"7702-1-JUN18-01",
+"7702-1-JUN18-02",
+"7702-1-JUN18-03",
+"7702-1-JUN18-04",
+"7702-1-JUN18-05"
+]
+},
+{
+"id": "7702-2-JUN18",
+"bundle": null,
+"series": "June 2018",
+"year": 2018,
+"qual": "A-level",
+"spec": "7702",
+"paperNo": "2",
+"paper": "Paper 2",
+"name": "Language diversity and change",
+"total": 100,
+"source": "third-party copy",
+"kind": "exam",
+"files": {
+"qp": "7702/2018-06/7702_2018-06_P2_QP.pdf",
+"ms": "7702/2018-06/7702_2018-06_P2_MS.pdf",
+"er": "7702/2018-06/7702_2018-06_P2_ER.pdf"
+},
+"slug": "june-2018-7702-2",
+"questions": [
+"7702-2-JUN18-01",
+"7702-2-JUN18-02",
+"7702-2-JUN18-03",
+"7702-2-JUN18-04"
+]
+},
+{
+"id": "7701-1-JUN17",
+"bundle": null,
+"series": "June 2017",
+"year": 2017,
+"qual": "AS",
+"spec": "7701",
+"paperNo": "1",
+"paper": "Paper 1",
+"name": "Language and the individual",
+"total": 70,
+"source": "third-party copy",
+"kind": "exam",
+"files": {
+"qp": "7701/2017-06/7701_2017-06_P1_QP.pdf",
+"ms": "7701/2017-06/7701_2017-06_P1_MS.pdf",
+"er": "7701/2017-06/7701_2017-06_P1_ER.pdf"
+},
+"slug": "june-2017-7701-1",
+"questions": [
+"7701-1-JUN17-01",
+"7701-1-JUN17-02",
+"7701-1-JUN17-03"
+]
+},
+{
+"id": "7701-2-JUN17",
+"bundle": null,
+"series": "June 2017",
+"year": 2017,
+"qual": "AS",
+"spec": "7701",
+"paperNo": "2",
+"paper": "Paper 2",
+"name": "Language varieties",
+"total": 70,
+"source": "third-party copy",
+"kind": "exam",
+"files": {
+"qp": "7701/2017-06/7701_2017-06_P2_QP.pdf",
+"ms": "7701/2017-06/7701_2017-06_P2_MS.pdf",
+"er": "7701/2017-06/7701_2017-06_P2_ER.pdf"
+},
+"slug": "june-2017-7701-2",
+"questions": [
+"7701-2-JUN17-01",
+"7701-2-JUN17-02",
+"7701-2-JUN17-03"
+]
+},
+{
+"id": "7702-1-JUN17",
+"bundle": null,
+"series": "June 2017",
+"year": 2017,
+"qual": "A-level",
+"spec": "7702",
+"paperNo": "1",
+"paper": "Paper 1",
+"name": "Language, the individual and society",
+"total": 100,
+"source": "third-party copy",
+"kind": "exam",
+"files": {
+"qp": "7702/2017-06/7702_2017-06_P1_QP.pdf",
+"ms": "7702/2017-06/7702_2017-06_P1_MS.pdf",
+"er": "7702/2017-06/7702_2017-06_P1_ER.pdf"
+},
+"slug": "june-2017-7702-1",
+"questions": [
+"7702-1-JUN17-01",
+"7702-1-JUN17-02",
+"7702-1-JUN17-03",
+"7702-1-JUN17-04",
+"7702-1-JUN17-05"
+]
+},
+{
+"id": "7702-2-JUN17",
+"bundle": null,
+"series": "June 2017",
+"year": 2017,
+"qual": "A-level",
+"spec": "7702",
+"paperNo": "2",
+"paper": "Paper 2",
+"name": "Language diversity and change",
+"total": 100,
+"source": "third-party copy",
+"kind": "exam",
+"files": {
+"qp": "7702/2017-06/7702_2017-06_P2_QP.pdf",
+"ms": "7702/2017-06/7702_2017-06_P2_MS.pdf",
+"er": "7702/2017-06/7702_2017-06_P2_ER.pdf"
+},
+"slug": "june-2017-7702-2",
+"questions": [
+"7702-2-JUN17-01",
+"7702-2-JUN17-02",
+"7702-2-JUN17-03",
+"7702-2-JUN17-04"
+]
+},
+{
+"id": "7701-1-JUN16",
+"bundle": null,
+"series": "June 2016",
+"year": 2016,
+"qual": "AS",
+"spec": "7701",
+"paperNo": "1",
+"paper": "Paper 1",
+"name": "Language and the individual",
+"total": 70,
+"source": "third-party copy",
+"kind": "exam",
+"files": {
+"qp": "7701/2016-06/7701_2016-06_P1_QP.pdf",
+"ms": "7701/2016-06/7701_2016-06_P1_MS.pdf",
+"er": "7701/2016-06/7701_2016-06_P1_ER.pdf"
+},
+"slug": "june-2016-7701-1",
+"questions": [
+"7701-1-JUN16-01",
+"7701-1-JUN16-02",
+"7701-1-JUN16-03"
+]
+},
+{
+"id": "7701-2-JUN16",
+"bundle": null,
+"series": "June 2016",
+"year": 2016,
+"qual": "AS",
+"spec": "7701",
+"paperNo": "2",
+"paper": "Paper 2",
+"name": "Language varieties",
+"total": 70,
+"source": "third-party copy",
+"kind": "exam",
+"files": {
+"qp": "7701/2016-06/7701_2016-06_P2_QP.pdf",
+"ms": "7701/2016-06/7701_2016-06_P2_MS.pdf",
+"er": "7701/2016-06/7701_2016-06_P2_ER.pdf"
+},
+"slug": "june-2016-7701-2",
+"questions": [
+"7701-2-JUN16-01",
+"7701-2-JUN16-02",
+"7701-2-JUN16-03"
+]
+}
+]

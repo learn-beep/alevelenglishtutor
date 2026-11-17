@@ -1,0 +1,476 @@
+[
+{
+"code": "4.1",
+"title": "Language, the individual and society (Paper 1; AS Paper 1)",
+"paper": 1,
+"option": null,
+"area": null,
+"theme": null,
+"aLevelOnly": false,
+"topic": null,
+"statements": []
+},
+{
+"code": "4.2",
+"title": "Language diversity and change (Paper 2; AS Paper 2)",
+"paper": 2,
+"option": null,
+"area": null,
+"theme": null,
+"aLevelOnly": false,
+"topic": null,
+"statements": []
+},
+{
+"code": "4.1.1",
+"title": "Textual variations and representations",
+"paper": 1,
+"option": null,
+"area": null,
+"theme": null,
+"aLevelOnly": false,
+"topic": "representation",
+"statements": [
+{
+"id": "4.1.1-01",
+"short": "",
+"text": "how language is shaped according to audience, purpose, genre and mode",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"audience-purpose-context"
+]
+},
+{
+"id": "4.1.1-02",
+"short": "",
+"text": "how language is shaped according to context, including texts from different times and places (global, national, regional)",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"audience-purpose-context"
+]
+},
+{
+"id": "4.1.1-03",
+"short": "",
+"text": "how language is used to construct meanings and representations; how representations are produced",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"representation"
+]
+},
+{
+"id": "4.1.1-04",
+"short": "",
+"text": "how language is used to enact relationships between writers, speakers and audiences or between participants within a text; how audiences are addressed and positioned",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"identity-relationships"
+]
+},
+{
+"id": "4.1.1-05",
+"short": "",
+"text": "how identity is constructed",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"identity-relationships"
+]
+},
+{
+"id": "4.1.1-06",
+"short": "",
+"text": "the functions of the texts; the structure and organisation of the texts",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"representation"
+]
+}
+]
+},
+{
+"code": "4.1.3",
+"title": "Children's language development (0–11)",
+"paper": 1,
+"option": null,
+"area": null,
+"theme": null,
+"aLevelOnly": true,
+"topic": "child-language-speech",
+"statements": [
+{
+"id": "4.1.3-01",
+"short": "",
+"text": "the functions of children's language",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"child-language-speech"
+]
+},
+{
+"id": "4.1.3-02",
+"short": "",
+"text": "phonological, pragmatic, lexical, semantic and grammatical development (spoken language)",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"child-language-speech"
+]
+},
+{
+"id": "4.1.3-03",
+"short": "",
+"text": "different genres of speech and writing; learning to read and write (literacy development)",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"child-language-literacy"
+]
+},
+{
+"id": "4.1.3-04",
+"short": "",
+"text": "different modes of communication (spoken, written, multimodal)",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"child-language-literacy"
+]
+},
+{
+"id": "4.1.3-05",
+"short": "",
+"text": "theories and research about language development (e.g. role of caregivers/interaction, nativist, cognitive, behaviourist)",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"child-language-theories"
+]
+}
+]
+},
+{
+"code": "4.2.1",
+"title": "Language diversity and change",
+"paper": 2,
+"option": null,
+"area": null,
+"theme": null,
+"aLevelOnly": false,
+"topic": "representation",
+"statements": [
+{
+"id": "4.2.1-01",
+"short": "",
+"text": "sociolects — social and occupational groups (incl. social class, age, occupation, communities of practice)",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"occupational-language"
+]
+},
+{
+"id": "4.2.1-02",
+"short": "",
+"text": "sociolects — gender (incl. sexuality)",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"language-and-gender"
+]
+},
+{
+"id": "4.2.1-03",
+"short": "",
+"text": "sociolects — ethnicity",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"ethnicity-world-englishes"
+]
+},
+{
+"id": "4.2.1-04",
+"short": "",
+"text": "dialects — regional and national varieties of English within the British Isles (accent and dialect)",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"accent-and-dialect"
+]
+},
+{
+"id": "4.2.1-05",
+"short": "",
+"text": "international varieties of English; global English and world Englishes",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"ethnicity-world-englishes"
+]
+},
+{
+"id": "4.2.1-06",
+"short": "",
+"text": "language change — texts from different periods (1600 to the present day); processes and explanations of language change",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"language-change"
+]
+},
+{
+"id": "4.2.1-07",
+"short": "",
+"text": "how and why language varies (personal, social, geographical, temporal contexts); different views and explanations of variation and change",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"attitudes-to-language"
+]
+},
+{
+"id": "4.2.1-08",
+"short": "",
+"text": "attitudes to language variation and change (prescriptivism, descriptivism, standard English, prestige)",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"attitudes-to-language"
+]
+},
+{
+"id": "4.2.1-09",
+"short": "",
+"text": "how identity is constructed and relationships enacted through language variety",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"identity-relationships"
+]
+},
+{
+"id": "4.2.1-10",
+"short": "",
+"text": "how language is used to represent different groups",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"representation"
+]
+}
+]
+},
+{
+"code": "4.2.3",
+"title": "Language discourses",
+"paper": 2,
+"option": null,
+"area": null,
+"theme": null,
+"aLevelOnly": false,
+"topic": "language-discourses",
+"statements": [
+{
+"id": "4.2.3-01",
+"short": "",
+"text": "how texts represent language (views and opinions about language issues)",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"language-discourses"
+]
+},
+{
+"id": "4.2.3-02",
+"short": "",
+"text": "how texts construct an identity for the producer",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"language-discourses"
+]
+},
+{
+"id": "4.2.3-03",
+"short": "",
+"text": "how texts position the reader and seek to influence them",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"language-discourses"
+]
+},
+{
+"id": "4.2.3-04",
+"short": "",
+"text": "how texts are connected to wider discourses about language",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"language-discourses"
+]
+}
+]
+},
+{
+"code": "4.2.4",
+"title": "Writing skills",
+"paper": 2,
+"option": null,
+"area": null,
+"theme": null,
+"aLevelOnly": false,
+"topic": "directed-writing",
+"statements": [
+{
+"id": "4.2.4-01",
+"short": "",
+"text": "writing discursively about language issues in an academic essay",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"directed-writing"
+]
+},
+{
+"id": "4.2.4-02",
+"short": "",
+"text": "writing analytically about texts as parts of discourses about language",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"directed-writing"
+]
+},
+{
+"id": "4.2.4-03",
+"short": "",
+"text": "writing about language issues in a variety of forms to communicate ideas to a non-specialist audience",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"directed-writing"
+]
+}
+]
+}
+]

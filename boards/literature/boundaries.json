@@ -1,0 +1,127 @@
+{
+ "max": 375,
+ "papers": [
+  [
+   "Paper 1",
+   75,
+   2
+  ],
+  [
+   "Paper 2 (2A or 2B)",
+   75,
+   2
+  ],
+  [
+   "NEA (Independent critical study)",
+   50,
+   1.5
+  ]
+ ],
+ "intro": "Paper 1 and Paper 2 are each marked out of 75 and the NEA (Independent critical study: texts across time) out of 50. AQA scales the papers by 2 and the NEA by 1.5, so the overall boundaries are out of 375 (40%, 40% and 20%); the calculator does the scaling. AQA sets separate boundaries for the WW1 (2A) and Modern times (2B) routes.",
+ "source": "AQA's published subject grade boundaries for A-level English Literature A (7712A and 7712B), out of 375: June 2026, 2025, 2024, 2023 and 2022 boundary documents.",
+ "components": "",
+ "alevel": [
+  {
+   "series": "June 2026 (2A: WW1)",
+   "max": 375,
+   "A*": 313,
+   "A": 282,
+   "B": 240,
+   "C": 198,
+   "D": 156,
+   "E": 115
+  },
+  {
+   "series": "June 2026 (2B: Modern times)",
+   "max": 375,
+   "A*": 320,
+   "A": 288,
+   "B": 244,
+   "C": 200,
+   "D": 156,
+   "E": 113
+  },
+  {
+   "series": "June 2025 (2A: WW1)",
+   "max": 375,
+   "A*": 321,
+   "A": 286,
+   "B": 244,
+   "C": 203,
+   "D": 162,
+   "E": 121
+  },
+  {
+   "series": "June 2025 (2B: Modern times)",
+   "max": 375,
+   "A*": 326,
+   "A": 294,
+   "B": 250,
+   "C": 206,
+   "D": 162,
+   "E": 119
+  },
+  {
+   "series": "June 2024 (2A: WW1)",
+   "max": 375,
+   "A*": 306,
+   "A": 276,
+   "B": 232,
+   "C": 188,
+   "D": 144,
+   "E": 101
+  },
+  {
+   "series": "June 2024 (2B: Modern times)",
+   "max": 375,
+   "A*": 320,
+   "A": 288,
+   "B": 242,
+   "C": 197,
+   "D": 152,
+   "E": 107
+  },
+  {
+   "series": "June 2023 (2A: WW1)",
+   "max": 375,
+   "A*": 312,
+   "A": 280,
+   "B": 237,
+   "C": 195,
+   "D": 153,
+   "E": 111
+  },
+  {
+   "series": "June 2023 (2B: Modern times)",
+   "max": 375,
+   "A*": 321,
+   "A": 288,
+   "B": 241,
+   "C": 195,
+   "D": 149,
+   "E": 103
+  },
+  {
+   "series": "June 2022 (2A: WW1)",
+   "max": 375,
+   "A*": 299,
+   "A": 257,
+   "B": 216,
+   "C": 176,
+   "D": 136,
+   "E": 96
+  },
+  {
+   "series": "June 2022 (2B: Modern times)",
+   "max": 375,
+   "A*": 312,
+   "A": 273,
+   "B": 229,
+   "C": 186,
+   "D": 143,
+   "E": 100
+  }
+ ],
+ "as": [],
+ "asSource": "AS English Literature A (7711) is out of 100 (two 50-mark papers); see AQA's AS grade boundaries document for each year's figures."
+}

@@ -1,0 +1,779 @@
+[
+{
+"slug": "othello",
+"name": "Othello",
+"group": "Shakespeare",
+"strand": "Shakespeare",
+"paper": "Shakespeare",
+"code": "4.1.1",
+"option": null,
+"statements": [
+"4.1.1-OTH"
+],
+"statementText": {
+"4.1.1-OTH": "Othello"
+},
+"statementShort": {
+"4.1.1-OTH": ""
+},
+"asStatements": [
+"4.1.1-OTH"
+],
+"levels": {
+"4.1.1-OTH": null
+},
+"parts": 18,
+"marks": 450,
+"essays": 18,
+"mcq": 0,
+"papers": [
+"Paper 1"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "taming-of-the-shrew",
+"name": "The Taming of the Shrew",
+"group": "Shakespeare",
+"strand": "Shakespeare",
+"paper": "Shakespeare",
+"code": "4.1.1",
+"option": null,
+"statements": [
+"4.1.1-TAM"
+],
+"statementText": {
+"4.1.1-TAM": "The Taming of the Shrew"
+},
+"statementShort": {
+"4.1.1-TAM": ""
+},
+"asStatements": [
+"4.1.1-TAM"
+],
+"levels": {
+"4.1.1-TAM": null
+},
+"parts": 18,
+"marks": 450,
+"essays": 18,
+"mcq": 0,
+"papers": [
+"Paper 1"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "measure-for-measure",
+"name": "Measure for Measure",
+"group": "Shakespeare",
+"strand": "Shakespeare",
+"paper": "Shakespeare",
+"code": "4.1.1",
+"option": null,
+"statements": [
+"4.1.1-MFM"
+],
+"statementText": {
+"4.1.1-MFM": "Measure for Measure"
+},
+"statementShort": {
+"4.1.1-MFM": ""
+},
+"asStatements": [
+"4.1.1-MFM"
+],
+"levels": {
+"4.1.1-MFM": null
+},
+"parts": 18,
+"marks": 450,
+"essays": 18,
+"mcq": 0,
+"papers": [
+"Paper 1"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "the-winters-tale",
+"name": "The Winter's Tale",
+"group": "Shakespeare",
+"strand": "Shakespeare",
+"paper": "Shakespeare",
+"code": "4.1.1",
+"option": null,
+"statements": [
+"4.1.1-WT"
+],
+"statementText": {
+"4.1.1-WT": "The Winter's Tale"
+},
+"statementShort": {
+"4.1.1-WT": ""
+},
+"asStatements": [
+"4.1.1-WT"
+],
+"levels": {
+"4.1.1-WT": null
+},
+"parts": 18,
+"marks": 450,
+"essays": 18,
+"mcq": 0,
+"papers": [
+"Paper 1"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "love-poetry-pre-1900",
+"name": "AQA Anthology: love poetry pre-1900",
+"group": "Love poetry and prose",
+"strand": "Love poetry and prose",
+"paper": "Love poetry and prose",
+"code": "4.1.2",
+"option": null,
+"statements": [
+"4.1.2-PRE"
+],
+"statementText": {
+"4.1.2-PRE": "AQA Anthology of love poetry through the ages pre-1900"
+},
+"statementShort": {
+"4.1.2-PRE": ""
+},
+"asStatements": [
+"4.1.2-PRE"
+],
+"levels": {
+"4.1.2-PRE": null
+},
+"parts": 27,
+"marks": 675,
+"essays": 27,
+"mcq": 0,
+"papers": [
+"Paper 1"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "love-poetry-post-1900",
+"name": "AQA Anthology: love poetry post-1900",
+"group": "Love poetry and prose",
+"strand": "Love poetry and prose",
+"paper": "Love poetry and prose",
+"code": "4.1.2",
+"option": null,
+"statements": [
+"4.1.2-POST"
+],
+"statementText": {
+"4.1.2-POST": "AQA Anthology of love poetry through the ages post-1900"
+},
+"statementShort": {
+"4.1.2-POST": ""
+},
+"asStatements": [
+"4.1.2-POST"
+],
+"levels": {
+"4.1.2-POST": null
+},
+"parts": 27,
+"marks": 675,
+"essays": 27,
+"mcq": 0,
+"papers": [
+"Paper 1"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "comparing-prose-love",
+"name": "Comparing prose texts (love through the ages)",
+"group": "Love poetry and prose",
+"strand": "Love poetry and prose",
+"paper": "Love poetry and prose",
+"code": "4.1.3",
+"option": null,
+"statements": [
+"4.1.3-PROSE",
+"4.1.3-PERS",
+"4.1.3-JE",
+"4.1.3-WH",
+"4.1.3-AWAK",
+"4.1.3-ROTT",
+"4.1.3-MILL",
+"4.1.3-TESS",
+"4.1.3-GATS",
+"4.1.3-RWV",
+"4.1.3-GOB",
+"4.1.3-REB",
+"4.1.3-ATON"
+],
+"statementText": {
+"4.1.3-PROSE": "Any studied prose text (open comparison questions)",
+"4.1.3-PERS": "Persuasion (Austen)",
+"4.1.3-JE": "Jane Eyre (C. Brontë)",
+"4.1.3-WH": "Wuthering Heights (E. Brontë)",
+"4.1.3-AWAK": "The Awakening (Chopin)",
+"4.1.3-ROTT": "The Rotters' Club (Coe) [AS only]",
+"4.1.3-MILL": "The Mill on the Floss (Eliot) [AS only]",
+"4.1.3-TESS": "Tess of the D'Urbervilles (Hardy)",
+"4.1.3-GATS": "The Great Gatsby (Fitzgerald)",
+"4.1.3-RWV": "A Room with a View (Forster)",
+"4.1.3-GOB": "The Go-Between (Hartley)",
+"4.1.3-REB": "Rebecca (Du Maurier)",
+"4.1.3-ATON": "Atonement (McEwan)"
+},
+"statementShort": {
+"4.1.3-PROSE": "",
+"4.1.3-PERS": "",
+"4.1.3-JE": "",
+"4.1.3-WH": "",
+"4.1.3-AWAK": "",
+"4.1.3-ROTT": "",
+"4.1.3-MILL": "",
+"4.1.3-TESS": "",
+"4.1.3-GATS": "",
+"4.1.3-RWV": "",
+"4.1.3-GOB": "",
+"4.1.3-REB": "",
+"4.1.3-ATON": ""
+},
+"asStatements": [
+"4.1.3-PROSE",
+"4.1.3-PERS",
+"4.1.3-JE",
+"4.1.3-WH",
+"4.1.3-AWAK",
+"4.1.3-ROTT",
+"4.1.3-MILL",
+"4.1.3-TESS",
+"4.1.3-GATS",
+"4.1.3-RWV",
+"4.1.3-GOB",
+"4.1.3-REB",
+"4.1.3-ATON"
+],
+"levels": {
+"4.1.3-PROSE": null,
+"4.1.3-PERS": null,
+"4.1.3-JE": null,
+"4.1.3-WH": null,
+"4.1.3-AWAK": null,
+"4.1.3-ROTT": null,
+"4.1.3-MILL": null,
+"4.1.3-TESS": null,
+"4.1.3-GATS": null,
+"4.1.3-RWV": null,
+"4.1.3-GOB": null,
+"4.1.3-REB": null,
+"4.1.3-ATON": null
+},
+"parts": 36,
+"marks": 900,
+"essays": 36,
+"mcq": 0,
+"papers": [
+"Paper 1",
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "unseen-love-poetry",
+"name": "Unseen poetry comparison (love)",
+"group": "Love poetry and prose",
+"strand": "Love poetry and prose",
+"paper": "Love poetry and prose",
+"code": "",
+"option": null,
+"statements": [],
+"statementText": {},
+"statementShort": {},
+"asStatements": [],
+"levels": {},
+"parts": 9,
+"marks": 225,
+"essays": 9,
+"mcq": 0,
+"papers": [
+"Paper 1"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "unseen-love-prose",
+"name": "Unseen prose (AS)",
+"group": "Love poetry and prose",
+"strand": "Love poetry and prose",
+"paper": "Love poetry and prose",
+"code": "",
+"option": null,
+"statements": [],
+"statementText": {},
+"statementShort": {},
+"asStatements": [],
+"levels": {},
+"parts": 9,
+"marks": 225,
+"essays": 9,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "regeneration",
+"name": "Regeneration (Pat Barker)",
+"group": "WW1 and its aftermath",
+"strand": "WW1 and its aftermath",
+"paper": "WW1 and its aftermath",
+"code": "4.2.1",
+"option": null,
+"statements": [
+"4.2.1-REGEN"
+],
+"statementText": {
+"4.2.1-REGEN": "Regeneration (Barker)"
+},
+"statementShort": {
+"4.2.1-REGEN": ""
+},
+"asStatements": [],
+"levels": {
+"4.2.1-REGEN": null
+},
+"parts": 18,
+"marks": 450,
+"essays": 18,
+"mcq": 0,
+"papers": [
+"Paper 2A"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "birdsong",
+"name": "Birdsong (Sebastian Faulks)",
+"group": "WW1 and its aftermath",
+"strand": "WW1 and its aftermath",
+"paper": "WW1 and its aftermath",
+"code": "4.2.1",
+"option": null,
+"statements": [
+"4.2.1-BIRD"
+],
+"statementText": {
+"4.2.1-BIRD": "Birdsong (Faulks)"
+},
+"statementShort": {
+"4.2.1-BIRD": ""
+},
+"asStatements": [],
+"levels": {
+"4.2.1-BIRD": null
+},
+"parts": 18,
+"marks": 450,
+"essays": 18,
+"mcq": 0,
+"papers": [
+"Paper 2A"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "oh-what-a-lovely-war",
+"name": "Oh! What a Lovely War",
+"group": "WW1 and its aftermath",
+"strand": "WW1 and its aftermath",
+"paper": "WW1 and its aftermath",
+"code": "4.2.1",
+"option": null,
+"statements": [
+"4.2.1-OWLW"
+],
+"statementText": {
+"4.2.1-OWLW": "Oh! What a Lovely War (Littlewood)"
+},
+"statementShort": {
+"4.2.1-OWLW": ""
+},
+"asStatements": [],
+"levels": {
+"4.2.1-OWLW": null
+},
+"parts": 18,
+"marks": 450,
+"essays": 18,
+"mcq": 0,
+"papers": [
+"Paper 2A"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "journeys-end",
+"name": "Journey's End (R.C. Sherriff)",
+"group": "WW1 and its aftermath",
+"strand": "WW1 and its aftermath",
+"paper": "WW1 and its aftermath",
+"code": "4.2.1",
+"option": null,
+"statements": [
+"4.2.1-JEND"
+],
+"statementText": {
+"4.2.1-JEND": "Journey's End (Sherriff)"
+},
+"statementShort": {
+"4.2.1-JEND": ""
+},
+"asStatements": [],
+"levels": {
+"4.2.1-JEND": null
+},
+"parts": 18,
+"marks": 450,
+"essays": 18,
+"mcq": 0,
+"papers": [
+"Paper 2A"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "up-the-line-to-death",
+"name": "Up the Line to Death (WW1 poetry)",
+"group": "WW1 and its aftermath",
+"strand": "WW1 and its aftermath",
+"paper": "WW1 and its aftermath",
+"code": "4.2.1",
+"option": null,
+"statements": [
+"4.2.1-UPLD"
+],
+"statementText": {
+"4.2.1-UPLD": "Up the Line to Death (ed. Gardner)"
+},
+"statementShort": {
+"4.2.1-UPLD": ""
+},
+"asStatements": [],
+"levels": {
+"4.2.1-UPLD": null
+},
+"parts": 18,
+"marks": 450,
+"essays": 18,
+"mcq": 0,
+"papers": [
+"Paper 2A"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "scars-upon-my-heart",
+"name": "Scars Upon My Heart (WW1 poetry)",
+"group": "WW1 and its aftermath",
+"strand": "WW1 and its aftermath",
+"paper": "WW1 and its aftermath",
+"code": "4.2.1",
+"option": null,
+"statements": [
+"4.2.1-SCARS"
+],
+"statementText": {
+"4.2.1-SCARS": "Scars Upon My Heart (ed. Reilly)"
+},
+"statementShort": {
+"4.2.1-SCARS": ""
+},
+"asStatements": [],
+"levels": {
+"4.2.1-SCARS": null
+},
+"parts": 18,
+"marks": 450,
+"essays": 18,
+"mcq": 0,
+"papers": [
+"Paper 2A"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "ww1-unseen-extract",
+"name": "WW1 unseen extract",
+"group": "WW1 and its aftermath",
+"strand": "WW1 and its aftermath",
+"paper": "WW1 and its aftermath",
+"code": "",
+"option": null,
+"statements": [],
+"statementText": {},
+"statementShort": {},
+"asStatements": [],
+"levels": {},
+"parts": 27,
+"marks": 675,
+"essays": 27,
+"mcq": 0,
+"papers": [
+"Paper 2A"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "ww1-comparison",
+"name": "WW1 comparing texts",
+"group": "WW1 and its aftermath",
+"strand": "WW1 and its aftermath",
+"paper": "WW1 and its aftermath",
+"code": "",
+"option": null,
+"statements": [],
+"statementText": {},
+"statementShort": {},
+"asStatements": [],
+"levels": {},
+"parts": 27,
+"marks": 675,
+"essays": 27,
+"mcq": 0,
+"papers": [
+"Paper 2A"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "the-handmaids-tale",
+"name": "The Handmaid's Tale (Margaret Atwood)",
+"group": "Modern times",
+"strand": "Modern times",
+"paper": "Modern times",
+"code": "4.2.2",
+"option": null,
+"statements": [
+"4.2.2-HMT"
+],
+"statementText": {
+"4.2.2-HMT": "The Handmaid's Tale (Atwood)"
+},
+"statementShort": {
+"4.2.2-HMT": ""
+},
+"asStatements": [],
+"levels": {
+"4.2.2-HMT": null
+},
+"parts": 18,
+"marks": 450,
+"essays": 18,
+"mcq": 0,
+"papers": [
+"Paper 2B"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "waterland",
+"name": "Waterland (Graham Swift)",
+"group": "Modern times",
+"strand": "Modern times",
+"paper": "Modern times",
+"code": "4.2.2",
+"option": null,
+"statements": [
+"4.2.2-WATL"
+],
+"statementText": {
+"4.2.2-WATL": "Waterland (Swift)"
+},
+"statementShort": {
+"4.2.2-WATL": ""
+},
+"asStatements": [],
+"levels": {
+"4.2.2-WATL": null
+},
+"parts": 18,
+"marks": 450,
+"essays": 18,
+"mcq": 0,
+"papers": [
+"Paper 2B"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "top-girls",
+"name": "Top Girls (Caryl Churchill)",
+"group": "Modern times",
+"strand": "Modern times",
+"paper": "Modern times",
+"code": "4.2.2",
+"option": null,
+"statements": [
+"4.2.2-TOPG"
+],
+"statementText": {
+"4.2.2-TOPG": "Top Girls (Churchill)"
+},
+"statementShort": {
+"4.2.2-TOPG": ""
+},
+"asStatements": [],
+"levels": {
+"4.2.2-TOPG": null
+},
+"parts": 18,
+"marks": 450,
+"essays": 18,
+"mcq": 0,
+"papers": [
+"Paper 2B"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "a-streetcar-named-desire",
+"name": "A Streetcar Named Desire",
+"group": "Modern times",
+"strand": "Modern times",
+"paper": "Modern times",
+"code": "4.2.2",
+"option": null,
+"statements": [
+"4.2.2-STREET"
+],
+"statementText": {
+"4.2.2-STREET": "A Streetcar Named Desire (Williams)"
+},
+"statementShort": {
+"4.2.2-STREET": ""
+},
+"asStatements": [],
+"levels": {
+"4.2.2-STREET": null
+},
+"parts": 18,
+"marks": 450,
+"essays": 18,
+"mcq": 0,
+"papers": [
+"Paper 2B"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "feminine-gospels",
+"name": "Feminine Gospels (Carol Ann Duffy)",
+"group": "Modern times",
+"strand": "Modern times",
+"paper": "Modern times",
+"code": "4.2.2",
+"option": null,
+"statements": [
+"4.2.2-FEMG"
+],
+"statementText": {
+"4.2.2-FEMG": "Feminine Gospels (Duffy)"
+},
+"statementShort": {
+"4.2.2-FEMG": ""
+},
+"asStatements": [],
+"levels": {
+"4.2.2-FEMG": null
+},
+"parts": 18,
+"marks": 450,
+"essays": 18,
+"mcq": 0,
+"papers": [
+"Paper 2B"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "skirrid-hill",
+"name": "Skirrid Hill (Owen Sheers)",
+"group": "Modern times",
+"strand": "Modern times",
+"paper": "Modern times",
+"code": "4.2.2",
+"option": null,
+"statements": [
+"4.2.2-SKIR"
+],
+"statementText": {
+"4.2.2-SKIR": "Skirrid Hill (Sheers)"
+},
+"statementShort": {
+"4.2.2-SKIR": ""
+},
+"asStatements": [],
+"levels": {
+"4.2.2-SKIR": null
+},
+"parts": 18,
+"marks": 450,
+"essays": 18,
+"mcq": 0,
+"papers": [
+"Paper 2B"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "modern-times-unseen-extract",
+"name": "Modern times unseen extract",
+"group": "Modern times",
+"strand": "Modern times",
+"paper": "Modern times",
+"code": "",
+"option": null,
+"statements": [],
+"statementText": {},
+"statementShort": {},
+"asStatements": [],
+"levels": {},
+"parts": 27,
+"marks": 675,
+"essays": 27,
+"mcq": 0,
+"papers": [
+"Paper 2B"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "modern-times-comparison",
+"name": "Modern times comparing texts",
+"group": "Modern times",
+"strand": "Modern times",
+"paper": "Modern times",
+"code": "",
+"option": null,
+"statements": [],
+"statementText": {},
+"statementShort": {},
+"asStatements": [],
+"levels": {},
+"parts": 27,
+"marks": 675,
+"essays": 27,
+"mcq": 0,
+"papers": [
+"Paper 2B"
+],
+"asOrA": "A level only"
+}
+]
